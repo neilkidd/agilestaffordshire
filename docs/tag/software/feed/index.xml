@@ -12,8 +12,8 @@
 
 <channel>
 	<title>software &#8211; Agile Staffordshire</title>
-	<atom:link href="/tag/software/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/agilestaffordshire/tag/software/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Wed, 30 Apr 2014 22:57:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>Open Data Institute Retrospective</title>
-		<link>/retrospectives/open-data-institute-retrospective/</link>
-					<comments>/retrospectives/open-data-institute-retrospective/#respond</comments>
+		<link>/agilestaffordshire/retrospectives/open-data-institute-retrospective/</link>
+					<comments>/agilestaffordshire/retrospectives/open-data-institute-retrospective/#respond</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Wed, 30 Apr 2014 22:57:20 +0000</pubDate>
@@ -39,19 +39,19 @@
 		<category><![CDATA[software]]></category>
 		<category><![CDATA[Stuart Harrison]]></category>
 		<category><![CDATA[value]]></category>
-		<guid isPermaLink="false">/?p=645</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=645</guid>
 
 					<description><![CDATA[Stuart Harrison, ruby developer for the ODI, introduced us to the ODI&#8217;s mission and how it facilitates &#8216;openness&#8217;. I think for many Agile Staffordshire participants, including me, it was a great introduction to an organisation of which only the name may have been familiar. Stuart provided a spirited talk on the rationale for open data and [&#8230;]]]></description>
 		
-					<wfw:commentRss>/retrospectives/open-data-institute-retrospective/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/retrospectives/open-data-institute-retrospective/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">645</post-id>	</item>
 		<item>
 		<title>October 2013 &#8211; Agile Experience Guest Speaker</title>
-		<link>/agile/october-2013-agile-experience-guest-speaker/</link>
-					<comments>/agile/october-2013-agile-experience-guest-speaker/#comments</comments>
+		<link>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/</link>
+					<comments>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Sun, 13 Oct 2013 20:53:48 +0000</pubDate>
@@ -64,19 +64,19 @@
 		<category><![CDATA[software]]></category>
 		<category><![CDATA[tdd]]></category>
 		<category><![CDATA[university]]></category>
-		<guid isPermaLink="false">/?p=544</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=544</guid>
 
 					<description><![CDATA[Date: Wednesday 30th October 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (Lecture Theatre 2 &#8211; the Octagon building) This month we welcome Mr Craig Judson from Codeweavers Limited. Codeweavers are a local company, based just outside Stafford in Dunston. They adopted agile techniques in 2007, starting with Scrum and have continued to evolve [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agile/october-2013-agile-experience-guest-speaker/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">544</post-id>	</item>
 		<item>
 		<title>Welcome to the New Agile Staffordshire Web Site</title>
-		<link>/agile/temporary-blog-site/</link>
-					<comments>/agile/temporary-blog-site/#respond</comments>
+		<link>/agilestaffordshire/agile/temporary-blog-site/</link>
+					<comments>/agilestaffordshire/agile/temporary-blog-site/#respond</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Sat, 05 Mar 2011 17:32:54 +0000</pubDate>
@@ -89,7 +89,7 @@
 
 					<description><![CDATA[Hello, I&#8217;ve installed WordPress so that we can use it to record meetings and blog about any additional topics or resources. After a rocky start with some hosting issues it appears to be working well now. You should notice the Google Group information in the side bar and hopefully some posts should appear here soon. [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agile/temporary-blog-site/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/agile/temporary-blog-site/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

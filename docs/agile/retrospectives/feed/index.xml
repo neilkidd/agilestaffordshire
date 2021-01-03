@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Retrospectives	</title>
-	<atom:link href="/agile/retrospectives/feed/" rel="self" type="application/rss+xml" />
-	<link>/agile/retrospectives/</link>
+	<atom:link href="/agilestaffordshire/agile/retrospectives/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/agile/retrospectives/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 07 Mar 2011 22:05:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

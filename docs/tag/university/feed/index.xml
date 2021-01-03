@@ -12,8 +12,8 @@
 
 <channel>
 	<title>university &#8211; Agile Staffordshire</title>
-	<atom:link href="/tag/university/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/agilestaffordshire/tag/university/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Tue, 24 Nov 2015 11:04:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>October 2013 &#8211; Agile Experience Guest Speaker</title>
-		<link>/agile/october-2013-agile-experience-guest-speaker/</link>
-					<comments>/agile/october-2013-agile-experience-guest-speaker/#comments</comments>
+		<link>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/</link>
+					<comments>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Sun, 13 Oct 2013 20:53:48 +0000</pubDate>
@@ -38,19 +38,19 @@
 		<category><![CDATA[software]]></category>
 		<category><![CDATA[tdd]]></category>
 		<category><![CDATA[university]]></category>
-		<guid isPermaLink="false">/?p=544</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=544</guid>
 
 					<description><![CDATA[Date: Wednesday 30th October 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (Lecture Theatre 2 &#8211; the Octagon building) This month we welcome Mr Craig Judson from Codeweavers Limited. Codeweavers are a local company, based just outside Stafford in Dunston. They adopted agile techniques in 2007, starting with Scrum and have continued to evolve [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agile/october-2013-agile-experience-guest-speaker/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">544</post-id>	</item>
 		<item>
 		<title>March Meeting: Session Outcomes</title>
-		<link>/agile/march-meeting-session-outcomes/</link>
-					<comments>/agile/march-meeting-session-outcomes/#comments</comments>
+		<link>/agilestaffordshire/agile/march-meeting-session-outcomes/</link>
+					<comments>/agilestaffordshire/agile/march-meeting-session-outcomes/#comments</comments>
 		
 		<dc:creator><![CDATA[paulshannon]]></dc:creator>
 		<pubDate>Mon, 28 Mar 2011 22:00:26 +0000</pubDate>
@@ -65,7 +65,7 @@
 
 					<description><![CDATA[March&#8217;s meeting themes were Designing an Agile University Course followed by a test driven development exercise. Agile University Courses Trevor Adams, from the Staffordshire University, presented the group with a short talk on the challenges of teaching agile based project planning and software development techniques. He covered the motivations for including content relevant to agile development [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agile/march-meeting-session-outcomes/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/agile/march-meeting-session-outcomes/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

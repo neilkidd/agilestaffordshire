@@ -9,9 +9,9 @@ License: The CSS, XHTML and design is released under GPL
 License URI: http://www.opensource.org/licenses/gpl-license.php
 */
 
-@import url("/wp-content/themes/europe/css/reset.css");
-@import url("/wp-content/themes/europe/css/text.css");
-@import url("/wp-content/themes/europe/css/960.css");
+@import url("/agilestaffordshire/wp-content/themes/europe/css/reset.css");
+@import url("/agilestaffordshire/wp-content/themes/europe/css/text.css");
+@import url("/agilestaffordshire/wp-content/themes/europe/css/960.css");
 
 body {font-size: 16px;font-family: Georgia;}
 h1,h2,h3,h4 {letter-spacing:-1px;}
@@ -316,7 +316,7 @@ ol.commentlist li div.reply { font-size:9px;background: #e3e3e3; color: #333;pad
 ol.commentlist li div.reply a:hover {color: #333;text-decoration: none;}
 ol.commentlist li div.reply a {color: #333;text-decoration: none;border:none;}
 ol.commentlist li ul.children { list-style:none; margin:1em 0 0; text-indent:0; }
-ol.commentlist li ul.children li { background: #fff url(/wp-content/themes/europe/images/ico-arrow-reply.png) no-repeat 3px 16px !important;margin:15px 0 0;padding:10px 0 10px 30px;}
+ol.commentlist li ul.children li { background: #fff url(/agilestaffordshire/wp-content/themes/europe/images/ico-arrow-reply.png) no-repeat 3px 16px !important;margin:15px 0 0;padding:10px 0 10px 30px;}
 ol.commentlist li ul.children li.alt {}
 ol.commentlist li ul.children li.even {}
 ol.commentlist li ul.children li.odd {}

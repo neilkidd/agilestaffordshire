@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Open Data Institute Retrospective	</title>
-	<atom:link href="/retrospectives/open-data-institute-retrospective/feed/" rel="self" type="application/rss+xml" />
-	<link>/retrospectives/open-data-institute-retrospective/</link>
+	<atom:link href="/agilestaffordshire/retrospectives/open-data-institute-retrospective/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/retrospectives/open-data-institute-retrospective/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Wed, 30 Apr 2014 22:57:20 +0000</lastBuildDate>
 	<sy:updatePeriod>

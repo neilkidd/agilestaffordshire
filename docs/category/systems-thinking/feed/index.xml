@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Systems Thinking &#8211; Agile Staffordshire</title>
-	<atom:link href="/category/systems-thinking/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/agilestaffordshire/category/systems-thinking/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Tue, 20 Sep 2011 12:44:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>September Meeting: Systems Thinking Games</title>
-		<link>/meeting-2/september-meeting-systems-thinking-games/</link>
-					<comments>/meeting-2/september-meeting-systems-thinking-games/#respond</comments>
+		<link>/agilestaffordshire/meeting-2/september-meeting-systems-thinking-games/</link>
+					<comments>/agilestaffordshire/meeting-2/september-meeting-systems-thinking-games/#respond</comments>
 		
 		<dc:creator><![CDATA[paulshannon]]></dc:creator>
 		<pubDate>Tue, 20 Sep 2011 12:44:23 +0000</pubDate>
@@ -36,7 +36,7 @@
 
 					<description><![CDATA[Details Date: Thursday 29th September Time: 7:15pm start to a 9:15pm (doors open at 6:30pm and close when the games have finished). Location: http://www.pieandale.com/ Theme: Systems Thinking Systems Thinking Following the excellent talks from Kevin Rutherford and Harriet Shannon in June we&#8217;re continuing to think about how teams and environments can be improved by considering how things [&#8230;]]]></description>
 		
-					<wfw:commentRss>/meeting-2/september-meeting-systems-thinking-games/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/meeting-2/september-meeting-systems-thinking-games/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

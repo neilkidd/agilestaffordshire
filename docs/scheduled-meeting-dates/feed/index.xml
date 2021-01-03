@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Scheduled Meeting Dates	</title>
-	<atom:link href="/scheduled-meeting-dates/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/agilestaffordshire/scheduled-meeting-dates/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Sat, 27 Sep 2014 11:02:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: Katie Taylor		</title>
-		<link>/scheduled-meeting-dates/#comment-4208</link>
+		<link>/agilestaffordshire/scheduled-meeting-dates/#comment-4208</link>
 
 		<dc:creator><![CDATA[Katie Taylor]]></dc:creator>
 		<pubDate>Mon, 10 Mar 2014 13:38:37 +0000</pubDate>

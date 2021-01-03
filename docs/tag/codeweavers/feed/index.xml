@@ -12,8 +12,8 @@
 
 <channel>
 	<title>codeweavers &#8211; Agile Staffordshire</title>
-	<atom:link href="/tag/codeweavers/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/agilestaffordshire/tag/codeweavers/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Thu, 14 Nov 2013 13:28:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>Last month&#8217;s agile experience session with Craig Judson</title>
-		<link>/agile/last-months-agile-experience-session-with-craig-judson/</link>
-					<comments>/agile/last-months-agile-experience-session-with-craig-judson/#respond</comments>
+		<link>/agilestaffordshire/agile/last-months-agile-experience-session-with-craig-judson/</link>
+					<comments>/agilestaffordshire/agile/last-months-agile-experience-session-with-craig-judson/#respond</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Thu, 14 Nov 2013 13:28:22 +0000</pubDate>
@@ -36,11 +36,11 @@
 		<category><![CDATA[codeweavers]]></category>
 		<category><![CDATA[experiences]]></category>
 		<category><![CDATA[lean]]></category>
-		<guid isPermaLink="false">/?p=581</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=581</guid>
 
 					<description><![CDATA[Firstly, I&#8217;d like to thank Craig for an excellent October session on Codeweaver&#8217;s experiences with agile. It was our first session in a Staffordshire University lecture theatre so well done Craig for dealing with such an imposing stage, especially with the growing number of attendees 🙂 It was good to see this increase in newcomers [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agile/last-months-agile-experience-session-with-craig-judson/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/agile/last-months-agile-experience-session-with-craig-judson/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

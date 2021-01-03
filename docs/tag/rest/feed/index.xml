@@ -12,8 +12,8 @@
 
 <channel>
 	<title>REST &#8211; Agile Staffordshire</title>
-	<atom:link href="/tag/rest/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/agilestaffordshire/tag/rest/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 23 Sep 2013 19:57:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,19 +24,19 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>September 2013 &#8211; First Contact</title>
-		<link>/agile/september-2013-first-contact/</link>
-					<comments>/agile/september-2013-first-contact/#comments</comments>
+		<link>/agilestaffordshire/agile/september-2013-first-contact/</link>
+					<comments>/agilestaffordshire/agile/september-2013-first-contact/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Mon, 23 Sep 2013 19:57:44 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Aliens]]></category>
 		<category><![CDATA[REST]]></category>
-		<guid isPermaLink="false">/?p=519</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=519</guid>
 
 					<description><![CDATA[Date: Thursday 26th September 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (K106 &#8211; the Octagon building) &#160; Last month we continued our discussions and began creating the RESTful implementation of our alien invasion game with the creation of the game controller. Continuing with getting the minimal feature set completed, this month we look [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agile/september-2013-first-contact/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/agile/september-2013-first-contact/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

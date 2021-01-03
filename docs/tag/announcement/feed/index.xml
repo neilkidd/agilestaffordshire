@@ -12,8 +12,8 @@
 
 <channel>
 	<title>announcement &#8211; Agile Staffordshire</title>
-	<atom:link href="/tag/announcement/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/agilestaffordshire/tag/announcement/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Sat, 05 Mar 2011 17:32:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>Welcome to the New Agile Staffordshire Web Site</title>
-		<link>/agile/temporary-blog-site/</link>
-					<comments>/agile/temporary-blog-site/#respond</comments>
+		<link>/agilestaffordshire/agile/temporary-blog-site/</link>
+					<comments>/agilestaffordshire/agile/temporary-blog-site/#respond</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Sat, 05 Mar 2011 17:32:54 +0000</pubDate>
@@ -38,7 +38,7 @@
 
 					<description><![CDATA[Hello, I&#8217;ve installed WordPress so that we can use it to record meetings and blog about any additional topics or resources. After a rocky start with some hosting issues it appears to be working well now. You should notice the Google Group information in the side bar and hopefully some posts should appear here soon. [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agile/temporary-blog-site/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/agile/temporary-blog-site/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

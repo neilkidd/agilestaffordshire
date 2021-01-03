@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Anagram Kata (Strikes Back)	</title>
-	<atom:link href="/kata/anagram-kata-strikes-back/feed/" rel="self" type="application/rss+xml" />
-	<link>/kata/anagram-kata-strikes-back/</link>
+	<atom:link href="/agilestaffordshire/kata/anagram-kata-strikes-back/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/kata/anagram-kata-strikes-back/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Thu, 13 Mar 2014 23:03:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: Agile Staffordshire March 2014 &#124; Trevweb		</title>
-		<link>/kata/anagram-kata-strikes-back/#comment-4226</link>
+		<link>/agilestaffordshire/kata/anagram-kata-strikes-back/#comment-4226</link>
 
 		<dc:creator><![CDATA[Agile Staffordshire March 2014 &#124; Trevweb]]></dc:creator>
 		<pubDate>Thu, 13 Mar 2014 23:03:44 +0000</pubDate>
-		<guid isPermaLink="false">/?p=631#comment-4226</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=631#comment-4226</guid>
 
 					<description><![CDATA[[&#8230;] getting together to cut code and talk about it! If that sounds like your thing, take a look at the March blog post for more [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] getting together to cut code and talk about it! If that sounds like your thing, take a look at the March blog post for more [&#8230;]</p>

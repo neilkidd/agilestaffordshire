@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Testing &#8211; Agile Staffordshire</title>
-	<atom:link href="/category/testing/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/agilestaffordshire/category/testing/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Thu, 26 Jun 2014 12:10:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>June 2014 &#8211; Is TDD Dead?</title>
-		<link>/agile/june-2014-is-tdd-dead/</link>
-					<comments>/agile/june-2014-is-tdd-dead/#comments</comments>
+		<link>/agilestaffordshire/agile/june-2014-is-tdd-dead/</link>
+					<comments>/agilestaffordshire/agile/june-2014-is-tdd-dead/#comments</comments>
 		
 		<dc:creator><![CDATA[Jon Willis]]></dc:creator>
 		<pubDate>Thu, 19 Jun 2014 21:07:19 +0000</pubDate>
@@ -36,11 +36,11 @@
 		<category><![CDATA[Refactoring]]></category>
 		<category><![CDATA[Retrospectives]]></category>
 		<category><![CDATA[Testing]]></category>
-		<guid isPermaLink="false">/?p=671</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=671</guid>
 
 					<description><![CDATA[Date: Thursday 26th June 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) Fear not, TDD is not dead, although it&#8217;s certainly been talked to death this month. This catchy title has been doing the rounds on the web recently since the Kent Beck + Martin Fowler + David Heinemeier Hansson talks. This month we are going to [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agile/june-2014-is-tdd-dead/feed/</wfw:commentRss>
+					<wfw:commentRss>/agilestaffordshire/agile/june-2014-is-tdd-dead/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

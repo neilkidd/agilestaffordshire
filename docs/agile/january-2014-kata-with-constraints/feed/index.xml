@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: January 2014 &#8211; Kata with Constraints	</title>
-	<atom:link href="/agile/january-2014-kata-with-constraints/feed/" rel="self" type="application/rss+xml" />
-	<link>/agile/january-2014-kata-with-constraints/</link>
+	<atom:link href="/agilestaffordshire/agile/january-2014-kata-with-constraints/feed/" rel="self" type="application/rss+xml" />
+	<link>/agilestaffordshire/agile/january-2014-kata-with-constraints/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Wed, 29 Jan 2014 09:00:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: String Calculator in Clojure at Agile Staffs &#124; Black Pepper Software		</title>
-		<link>/agile/january-2014-kata-with-constraints/#comment-4123</link>
+		<link>/agilestaffordshire/agile/january-2014-kata-with-constraints/#comment-4123</link>
 
 		<dc:creator><![CDATA[String Calculator in Clojure at Agile Staffs &#124; Black Pepper Software]]></dc:creator>
 		<pubDate>Wed, 29 Jan 2014 09:00:37 +0000</pubDate>
-		<guid isPermaLink="false">/?p=612#comment-4123</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=612#comment-4123</guid>
 
 					<description><![CDATA[[&#8230;] attended the Agile Staffs January session on Thursday which took us back to the halcyon nights of coding katas. It&#8217;s been a while since [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] attended the Agile Staffs January session on Thursday which took us back to the halcyon nights of coding katas. It&#8217;s been a while since [&#8230;]</p>
@@ -37,11 +37,11 @@
 		<item>
 		<title>
 		By: Pragmatic me		</title>
-		<link>/agile/january-2014-kata-with-constraints/#comment-4118</link>
+		<link>/agilestaffordshire/agile/january-2014-kata-with-constraints/#comment-4118</link>
 
 		<dc:creator><![CDATA[Pragmatic me]]></dc:creator>
 		<pubDate>Sun, 26 Jan 2014 11:52:25 +0000</pubDate>
-		<guid isPermaLink="false">/?p=612#comment-4118</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=612#comment-4118</guid>
 
 					<description><![CDATA[[&#8230;] attended the Agile Staffs January session on Thursday which took us back to  the halcyon nights of coding katas. It&#8217;s been a while [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] attended the Agile Staffs January session on Thursday which took us back to  the halcyon nights of coding katas. It&#8217;s been a while [&#8230;]</p>
@@ -51,11 +51,11 @@
 		<item>
 		<title>
 		By: String Calculator in Clojure @ Agile Staffs &#171; Pragmatic me		</title>
-		<link>/agile/january-2014-kata-with-constraints/#comment-4117</link>
+		<link>/agilestaffordshire/agile/january-2014-kata-with-constraints/#comment-4117</link>
 
 		<dc:creator><![CDATA[String Calculator in Clojure @ Agile Staffs &#171; Pragmatic me]]></dc:creator>
 		<pubDate>Sun, 26 Jan 2014 11:50:10 +0000</pubDate>
-		<guid isPermaLink="false">/?p=612#comment-4117</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=612#comment-4117</guid>
 
 					<description><![CDATA[[&#8230;] attended the Agile Staffs January session on Thursday which took us back to  the halcyon nights of coding katas. It&#8217;s been a while [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] attended the Agile Staffs January session on Thursday which took us back to  the halcyon nights of coding katas. It&#8217;s been a while [&#8230;]</p>
@@ -65,11 +65,11 @@
 		<item>
 		<title>
 		By: Paul Williams		</title>
-		<link>/agile/january-2014-kata-with-constraints/#comment-4116</link>
+		<link>/agilestaffordshire/agile/january-2014-kata-with-constraints/#comment-4116</link>
 
 		<dc:creator><![CDATA[Paul Williams]]></dc:creator>
 		<pubDate>Sat, 25 Jan 2014 16:45:51 +0000</pubDate>
-		<guid isPermaLink="false">/?p=612#comment-4116</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=612#comment-4116</guid>
 
 					<description><![CDATA[Great session on Thursday - as promised, I&#039;ve uploaded Neil and my Clojure attempt. If you check the history, you&#039;ll notice I spent 40 minutes this afternoon finishing it off.]]></description>
 			<content:encoded><![CDATA[<p>Great session on Thursday &#8211; as promised, I&#8217;ve uploaded Neil and my Clojure attempt. If you check the history, you&#8217;ll notice I spent 40 minutes this afternoon finishing it off.</p>
@@ -79,11 +79,11 @@
 		<item>
 		<title>
 		By: Jack Watling		</title>
-		<link>/agile/january-2014-kata-with-constraints/#comment-4111</link>
+		<link>/agilestaffordshire/agile/january-2014-kata-with-constraints/#comment-4111</link>
 
 		<dc:creator><![CDATA[Jack Watling]]></dc:creator>
 		<pubDate>Wed, 22 Jan 2014 22:38:28 +0000</pubDate>
-		<guid isPermaLink="false">/?p=612#comment-4111</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=612#comment-4111</guid>
 
 					<description><![CDATA[This one looks interesting, and the simplicity should lead to some elegant solutions - my first thought was &#039;regex&#039;! Sadly I am not based in Stafford at the moment so can&#039;t attend, but good luck to everyone that can.]]></description>
 			<content:encoded><![CDATA[<p>This one looks interesting, and the simplicity should lead to some elegant solutions &#8211; my first thought was &#8216;regex&#8217;! Sadly I am not based in Stafford at the moment so can&#8217;t attend, but good luck to everyone that can.</p>
@@ -93,11 +93,11 @@
 		<item>
 		<title>
 		By: Trevor Adams		</title>
-		<link>/agile/january-2014-kata-with-constraints/#comment-4108</link>
+		<link>/agilestaffordshire/agile/january-2014-kata-with-constraints/#comment-4108</link>
 
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Tue, 21 Jan 2014 15:03:35 +0000</pubDate>
-		<guid isPermaLink="false">/?p=612#comment-4108</guid>
+		<guid isPermaLink="false">/agilestaffordshire/?p=612#comment-4108</guid>
 
 					<description><![CDATA[Looking forward to this one. I hope you all had a good Christmas. It&#039;s going to feel really strange with Neil leaving.]]></description>
 			<content:encoded><![CDATA[<p>Looking forward to this one. I hope you all had a good Christmas. It&#8217;s going to feel really strange with Neil leaving.</p>
