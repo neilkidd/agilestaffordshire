@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>meeting &#8211; Agile Staffordshire</title>
+	<atom:link href="/tag/meeting/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Tue, 24 Nov 2015 11:04:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>October 2013 &#8211; Agile Experience Guest Speaker</title>
+		<link>/agile/october-2013-agile-experience-guest-speaker/</link>
+					<comments>/agile/october-2013-agile-experience-guest-speaker/#comments</comments>
+		
+		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
+		<pubDate>Sun, 13 Oct 2013 20:53:48 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Scrum]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[meeting]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[tdd]]></category>
+		<category><![CDATA[university]]></category>
+		<guid isPermaLink="false">/?p=544</guid>
+
+					<description><![CDATA[Date: Wednesday 30th October 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (Lecture Theatre 2 &#8211; the Octagon building) This month we welcome Mr Craig Judson from Codeweavers Limited. Codeweavers are a local company, based just outside Stafford in Dunston. They adopted agile techniques in 2007, starting with Scrum and have continued to evolve [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/october-2013-agile-experience-guest-speaker/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">544</post-id>	</item>
+		<item>
+		<title>May Meeting: Software Craftsmanship</title>
+		<link>/meeting-2/may-meeting-software-craftsmanship-2011-round-up/</link>
+					<comments>/meeting-2/may-meeting-software-craftsmanship-2011-round-up/#respond</comments>
+		
+		<dc:creator><![CDATA[paulshannon]]></dc:creator>
+		<pubDate>Sat, 21 May 2011 12:58:08 +0000</pubDate>
+				<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Software Craftsmanship]]></category>
+		<category><![CDATA[clean code]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[meeting]]></category>
+		<category><![CDATA[software craftsmanship]]></category>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=53</guid>
+
+					<description><![CDATA[Details Date: Tuesday 31st May 2011. Time: 7:15pm start to a 9:15pm (doors open at 6:30pm and close with the pub). Location: http://www.pieandale.com/ Theme: Software Craftsmanship Round-up Software Craftsmanship The analogy of software development as a medieval style craft will romanticise our profession but it also provides a keen set of principles that will ensure software produced [&#8230;]]]></description>
+		
+					<wfw:commentRss>/meeting-2/may-meeting-software-craftsmanship-2011-round-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">53</post-id>	</item>
+		<item>
+		<title>March Meeting: Session Outcomes</title>
+		<link>/agile/march-meeting-session-outcomes/</link>
+					<comments>/agile/march-meeting-session-outcomes/#comments</comments>
+		
+		<dc:creator><![CDATA[paulshannon]]></dc:creator>
+		<pubDate>Mon, 28 Mar 2011 22:00:26 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[march]]></category>
+		<category><![CDATA[meeting]]></category>
+		<category><![CDATA[outcomes]]></category>
+		<category><![CDATA[tdd]]></category>
+		<category><![CDATA[university]]></category>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=40</guid>
+
+					<description><![CDATA[March&#8217;s meeting themes were Designing an Agile University Course followed by a test driven development exercise. Agile University Courses Trevor Adams, from the Staffordshire University, presented the group with a short talk on the challenges of teaching agile based project planning and software development techniques. He covered the motivations for including content relevant to agile development [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/march-meeting-session-outcomes/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40</post-id>	</item>
+		<item>
+		<title>Retrospectives</title>
+		<link>/agile/retrospectives/</link>
+					<comments>/agile/retrospectives/#respond</comments>
+		
+		<dc:creator><![CDATA[paulshannon]]></dc:creator>
+		<pubDate>Mon, 07 Mar 2011 22:05:13 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[february]]></category>
+		<category><![CDATA[meeting]]></category>
+		<category><![CDATA[retrospective]]></category>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=18</guid>
+
+					<description><![CDATA[At the February meeting we ended proceedings in a truly Agile manner by inspecting and adapting the way that the group and meetings were conducted through a Retrospective. For those who found this useful and want to take this away and try it elsewhere then here is the format we used: Give everyone some sticky [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/retrospectives/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18</post-id>	</item>
+	</channel>
+</rss>

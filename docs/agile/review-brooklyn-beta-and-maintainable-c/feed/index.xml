@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Review: Brooklyn Beta and Maintainable C	</title>
+	<atom:link href="/agile/review-brooklyn-beta-and-maintainable-c/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/review-brooklyn-beta-and-maintainable-c/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Mon, 02 Dec 2013 22:59:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/review-brooklyn-beta-and-maintainable-c/#comment-3683</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2013 22:59:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=596#comment-3683</guid>
+
+					<description><![CDATA[My own policy wiped the Pad so I&#039;ll have to re-do the slides. Should not be a problem as I have the notes. I plan to get them done this week.
+
+Thank you, Agile Staffs. I really enjoyed this session.]]></description>
+			<content:encoded><![CDATA[<p>My own policy wiped the Pad so I&#8217;ll have to re-do the slides. Should not be a problem as I have the notes. I plan to get them done this week.</p>
+<p>Thank you, Agile Staffs. I really enjoyed this session.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

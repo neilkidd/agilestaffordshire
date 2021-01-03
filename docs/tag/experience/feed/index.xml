@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>experience &#8211; Agile Staffordshire</title>
+	<atom:link href="/tag/experience/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Thu, 05 Mar 2015 12:50:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>From Chaos to Kanban</title>
+		<link>/agile/from-chaos-to-kanban/</link>
+					<comments>/agile/from-chaos-to-kanban/#respond</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2015 12:50:04 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[Software Craftsmanship]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[experience]]></category>
+		<category><![CDATA[kanban]]></category>
+		<category><![CDATA[presentation]]></category>
+		<guid isPermaLink="false">/?p=777</guid>
+
+					<description><![CDATA[There&#8217;s always a great atmosphere and discussion at Agile Staffordshire whenever we have a guest speaker. February did not disappoint. Craig Judson (Operations Manager at Codeweavers) presented Kanban in general and then elaborated on how Kanban is utilised specifically for continuous delivery of software. Subsequently, a vibrant and energised discussion took place on working practices and project/product [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/from-chaos-to-kanban/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
+	</channel>
+</rss>

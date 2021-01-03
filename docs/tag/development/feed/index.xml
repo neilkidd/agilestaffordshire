@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>development &#8211; Agile Staffordshire</title>
+	<atom:link href="/tag/development/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Sat, 05 Mar 2011 17:32:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>Welcome to the New Agile Staffordshire Web Site</title>
+		<link>/agile/temporary-blog-site/</link>
+					<comments>/agile/temporary-blog-site/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
+		<pubDate>Sat, 05 Mar 2011 17:32:54 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[announcement]]></category>
+		<category><![CDATA[development]]></category>
+		<category><![CDATA[software]]></category>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=5</guid>
+
+					<description><![CDATA[Hello, I&#8217;ve installed WordPress so that we can use it to record meetings and blog about any additional topics or resources. After a rocky start with some hosting issues it appears to be working well now. You should notice the Google Group information in the side bar and hopefully some posts should appear here soon. [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/temporary-blog-site/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5</post-id>	</item>
+	</channel>
+</rss>

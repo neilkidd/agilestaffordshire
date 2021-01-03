@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: July &#8211; An Introduction to Functional Programming with F#	</title>
+	<atom:link href="/agile/july-an-introduction-to-functional-programming-with-f/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/july-an-introduction-to-functional-programming-with-f/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Mon, 18 Aug 2014 07:32:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: paulswilliams		</title>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-37384</link>
+
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2014 07:32:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=683#comment-37384</guid>
+
+					<description><![CDATA[And the slides are at http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp]]></description>
+			<content:encoded><![CDATA[<p>And the slides are at <a href="http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp" rel="nofollow ugc">http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Agile Staffordshire July 2014 &#124; Trevweb		</title>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-28400</link>
+
+		<dc:creator><![CDATA[Agile Staffordshire July 2014 &#124; Trevweb]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2014 00:48:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=683#comment-28400</guid>
+
+					<description><![CDATA[[&#8230;] month&#8217;s Agile Staffordshire session is going to a be a real treat. Ian Russell is scheduled to deliver a session on F#, a [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] month&#8217;s Agile Staffordshire session is going to a be a real treat. Ian Russell is scheduled to deliver a session on F#, a [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-26491</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2014 01:57:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=683#comment-26491</guid>
+
+					<description><![CDATA[I have checked with the University staff and F# is installed in K102 labs.]]></description>
+			<content:encoded><![CDATA[<p>I have checked with the University staff and F# is installed in K102 labs.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-24216</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 23:03:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=683#comment-24216</guid>
+
+					<description><![CDATA[Can anyone confirm if the lab machines have F# installed? It will save me the time in setting up a VM. Looking forward to seeing you all!]]></description>
+			<content:encoded><![CDATA[<p>Can anyone confirm if the lab machines have F# installed? It will save me the time in setting up a VM. Looking forward to seeing you all!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

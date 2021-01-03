@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Welcome	</title>
+	<atom:link href="/welcome/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Mon, 10 Mar 2014 13:40:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Katie Taylor		</title>
+		<link>/welcome/#comment-4209</link>
+
+		<dc:creator><![CDATA[Katie Taylor]]></dc:creator>
+		<pubDate>Mon, 10 Mar 2014 13:40:45 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?page_id=15#comment-4209</guid>
+
+					<description><![CDATA[AgileNorth 2014 - Wednesday 11th June - UCLan, Preston
+
+Call for Participation open until 28th April.]]></description>
+			<content:encoded><![CDATA[<p>AgileNorth 2014 &#8211; Wednesday 11th June &#8211; UCLan, Preston</p>
+<p>Call for Participation open until 28th April.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Katie Taylor		</title>
+		<link>/welcome/#comment-2215</link>
+
+		<dc:creator><![CDATA[Katie Taylor]]></dc:creator>
+		<pubDate>Sun, 24 Feb 2013 21:57:23 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?page_id=15#comment-2215</guid>
+
+					<description><![CDATA[Hi - see you have a meeting next week, would you be able to circulate the following Call for Participation for AgileNorth 2013?  Thanks  - Katie
+
+
+Thursday 27th June 2013 – UCLan, Preston, Lancs
+
+The AgileNorth Committee is inviting individuals or groups to submit presentation or workshop ideas for this year’s one day conference.
+
+Interactive presentations are typically 1.5 hours with workshops up to 3 hours and should be based on some aspect of Agile product delivery.
+
+Please submit brief details including title, description and indication of audience interaction by the deadline of Monday 8th April 2013 to kjtaylor@uclan.ac.uk]]></description>
+			<content:encoded><![CDATA[<p>Hi &#8211; see you have a meeting next week, would you be able to circulate the following Call for Participation for AgileNorth 2013?  Thanks  &#8211; Katie</p>
+<p>Thursday 27th June 2013 – UCLan, Preston, Lancs</p>
+<p>The AgileNorth Committee is inviting individuals or groups to submit presentation or workshop ideas for this year’s one day conference.</p>
+<p>Interactive presentations are typically 1.5 hours with workshops up to 3 hours and should be based on some aspect of Agile product delivery.</p>
+<p>Please submit brief details including title, description and indication of audience interaction by the deadline of Monday 8th April 2013 to <a href="mailto:kjtaylor@uclan.ac.uk">kjtaylor@uclan.ac.uk</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

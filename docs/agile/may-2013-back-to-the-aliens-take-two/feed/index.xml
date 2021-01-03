@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: May 2013 &#8211; Back To The Aliens (Take Two)	</title>
+	<atom:link href="/agile/may-2013-back-to-the-aliens-take-two/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/may-2013-back-to-the-aliens-take-two/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Tue, 14 May 2013 22:35:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Agile Staffordshire May 2013 &#124; Trevweb		</title>
+		<link>/agile/may-2013-back-to-the-aliens-take-two/#comment-3162</link>
+
+		<dc:creator><![CDATA[Agile Staffordshire May 2013 &#124; Trevweb]]></dc:creator>
+		<pubDate>Tue, 14 May 2013 22:35:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=446#comment-3162</guid>
+
+					<description><![CDATA[[...] hindered the project getting off the ground but there is now opportunity to get back on track. The full details of the May session are available, along with previous sessions, on the Agile Staffordshire [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] hindered the project getting off the ground but there is now opportunity to get back on track. The full details of the May session are available, along with previous sessions, on the Agile Staffordshire [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

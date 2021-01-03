@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Kanban &#8211; Agile Staffordshire</title>
+	<atom:link href="/category/kanban/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Thu, 05 Mar 2015 12:50:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>From Chaos to Kanban</title>
+		<link>/agile/from-chaos-to-kanban/</link>
+					<comments>/agile/from-chaos-to-kanban/#respond</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2015 12:50:04 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[Software Craftsmanship]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[experience]]></category>
+		<category><![CDATA[kanban]]></category>
+		<category><![CDATA[presentation]]></category>
+		<guid isPermaLink="false">/?p=777</guid>
+
+					<description><![CDATA[There&#8217;s always a great atmosphere and discussion at Agile Staffordshire whenever we have a guest speaker. February did not disappoint. Craig Judson (Operations Manager at Codeweavers) presented Kanban in general and then elaborated on how Kanban is utilised specifically for continuous delivery of software. Subsequently, a vibrant and energised discussion took place on working practices and project/product [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/from-chaos-to-kanban/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
+		<item>
+		<title>October 2013 &#8211; Agile Experience Guest Speaker</title>
+		<link>/agile/october-2013-agile-experience-guest-speaker/</link>
+					<comments>/agile/october-2013-agile-experience-guest-speaker/#comments</comments>
+		
+		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
+		<pubDate>Sun, 13 Oct 2013 20:53:48 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Scrum]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[meeting]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[tdd]]></category>
+		<category><![CDATA[university]]></category>
+		<guid isPermaLink="false">/?p=544</guid>
+
+					<description><![CDATA[Date: Wednesday 30th October 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (Lecture Theatre 2 &#8211; the Octagon building) This month we welcome Mr Craig Judson from Codeweavers Limited. Codeweavers are a local company, based just outside Stafford in Dunston. They adopted agile techniques in 2007, starting with Scrum and have continued to evolve [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/october-2013-agile-experience-guest-speaker/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">544</post-id>	</item>
+		<item>
+		<title>May 2013 &#8211; Back To The Aliens (Take Two)</title>
+		<link>/agile/may-2013-back-to-the-aliens-take-two/</link>
+					<comments>/agile/may-2013-back-to-the-aliens-take-two/#comments</comments>
+		
+		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
+		<pubDate>Mon, 13 May 2013 12:48:24 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Aliens]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<guid isPermaLink="false">/?p=446</guid>
+
+					<description><![CDATA[Date: Thursday 23rd May 2013 Time: 7:00pm start (Please note time change) Venue: Staffordshire University &#8211; Stafford Campus (K102 &#8211; the Octagon building) &#160; &#160; This month we will (finally) kick-off the Alien Invasion project. Code Repository The repository is a GIT repository and can be found at https://github.com/agilestaffordshire/Alien-Invasion-Coding-Challenge . To work on the code, begin by forking [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/may-2013-back-to-the-aliens-take-two/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">446</post-id>	</item>
+		<item>
+		<title>November 2012 &#8211; Kanban Introduction</title>
+		<link>/agile/november-2012-kanban-introduction/</link>
+					<comments>/agile/november-2012-kanban-introduction/#comments</comments>
+		
+		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
+		<pubDate>Sun, 11 Nov 2012 20:32:50 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Software Craftsmanship]]></category>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=321</guid>
+
+					<description><![CDATA[Date: Thursday 29th November 2012 Time: 7:30pm start Venue: The Stafford Ale House Location: Google Maps Introduction To Kanban At last months meeting, due to technical problems, we didn&#8217;t get round to the Minisculus Challenge. However we did discuss the idea of extending the Alien Invasion project. The catalyst of this project is that back [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/november-2012-kanban-introduction/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">321</post-id>	</item>
+	</channel>
+</rss>

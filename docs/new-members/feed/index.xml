@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: New Members	</title>
+	<atom:link href="/new-members/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Sat, 27 Sep 2014 10:49:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Cynthia		</title>
+		<link>/new-members/#comment-3321</link>
+
+		<dc:creator><![CDATA[Cynthia]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2013 11:48:11 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?page_id=60#comment-3321</guid>
+
+					<description><![CDATA[Hello,
+I am researching the role of stand-up meetings in agile software development for my Masters dissertation. As part of this work I am distributing a questionnaire which aims to investigate how agile teams run their daily/regular team meetings.
+
+If you work in an agile team I would appreciate it if you could find the time to fill in the questionnaire. Just click on the link below:
+http://www.surveygizmo.com/s3/1330834/stand-up-meeting-in-Agile-software-development
+ 
+ 
+Regards]]></description>
+			<content:encoded><![CDATA[<p>Hello,<br />
+I am researching the role of stand-up meetings in agile software development for my Masters dissertation. As part of this work I am distributing a questionnaire which aims to investigate how agile teams run their daily/regular team meetings.</p>
+<p>If you work in an agile team I would appreciate it if you could find the time to fill in the questionnaire. Just click on the link below:<br />
+<a href="http://www.surveygizmo.com/s3/1330834/stand-up-meeting-in-Agile-software-development" rel="nofollow ugc">http://www.surveygizmo.com/s3/1330834/stand-up-meeting-in-Agile-software-development</a></p>
+<p>Regards</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: June Meeting: Flow and F1 In Paediatric Intensive Care &#187; Agile Staffordshire		</title>
+		<link>/new-members/#comment-3</link>
+
+		<dc:creator><![CDATA[June Meeting: Flow and F1 In Paediatric Intensive Care &#187; Agile Staffordshire]]></dc:creator>
+		<pubDate>Mon, 13 Jun 2011 21:27:36 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?page_id=60#comment-3</guid>
+
+					<description><![CDATA[[...]  [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;]  [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

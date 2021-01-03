@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Agile Staffordshire	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Tue, 20 Aug 2019 10:22:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		Comment on Functional Programming with Clojure by Meetup &#8211; Functional Programming with Clojure &#124; Trevweb		</title>
+		<link>/events/functional-programming-with-clojure/#comment-73460</link>
+
+		<dc:creator><![CDATA[Meetup &#8211; Functional Programming with Clojure &#124; Trevweb]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2015 23:17:51 +0000</pubDate>
+		<guid isPermaLink="false">/events/functional-programming-with-clojure/#comment-73460</guid>
+
+					<description><![CDATA[[&#8230;] detail regarding the meet-up can be found on the Agile Staffordshire event page. If you are reading this and want to sign up to attend, it can all be achieved from the Meetup [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] detail regarding the meet-up can be found on the Agile Staffordshire event page. If you are reading this and want to sign up to attend, it can all be achieved from the Meetup [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Thymeleaf and Thymesheet by Thymeleaf and Thymesheet &#124; Trevweb		</title>
+		<link>/events/thymeleaf-and-thymesheet/#comment-72581</link>
+
+		<dc:creator><![CDATA[Thymeleaf and Thymesheet &#124; Trevweb]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2015 11:10:44 +0000</pubDate>
+		<guid isPermaLink="false">/events/thymeleaf-and-thymesheet/#comment-72581</guid>
+
+					<description><![CDATA[[&#8230;] you are interested in attending, details can be found on the Agile Staffordshire Blog and on Meet-up. I look forward to seeing you [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] you are interested in attending, details can be found on the Agile Staffordshire Blog and on Meet-up. I look forward to seeing you [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Git Introduction January 2015 by Advanced Git with Maven on the Command Line &#124; Trevweb		</title>
+		<link>/agile/git-introduction-january-2015/#comment-71804</link>
+
+		<dc:creator><![CDATA[Advanced Git with Maven on the Command Line &#124; Trevweb]]></dc:creator>
+		<pubDate>Wed, 27 May 2015 15:42:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=748#comment-71804</guid>
+
+					<description><![CDATA[[&#8230;] Thursday 28th May, Paul Williams is hosting a follow-up to his Git at the Command Line session earlier this year. Paul is going to build on the previous session by digging deeper into [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Thursday 28th May, Paul Williams is hosting a follow-up to his Git at the Command Line session earlier this year. Paul is going to build on the previous session by digging deeper into [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on vi with Agile Staffordshire by Learn vi with Agile Staffordshire &#124; Trevweb		</title>
+		<link>/events/vi-with-agile-staffordshire/#comment-70872</link>
+
+		<dc:creator><![CDATA[Learn vi with Agile Staffordshire &#124; Trevweb]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2015 12:53:06 +0000</pubDate>
+		<guid isPermaLink="false">/events/vi-with-agile-staffordshire/#comment-70872</guid>
+
+					<description><![CDATA[[&#8230;] Learning how to use a tool is one of the best value-for-time activities for a software developer. Vi isn&#8217;t a new tool; on the contrary it has a long and distinguished history as an editor. There&#8217;s a real treat planned this evening with Agile Staffordshire and I encourage you to stop by and join in. Details are available on the Agile Staffordshire Blog. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Learning how to use a tool is one of the best value-for-time activities for a software developer. Vi isn&#8217;t a new tool; on the contrary it has a long and distinguished history as an editor. There&#8217;s a real treat planned this evening with Agile Staffordshire and I encourage you to stop by and join in. Details are available on the Agile Staffordshire Blog. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Git at the command line by Agile Staffordshire January 2015 &#124; Trevweb		</title>
+		<link>/events/git-at-the-command-line/#comment-69641</link>
+
+		<dc:creator><![CDATA[Agile Staffordshire January 2015 &#124; Trevweb]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 21:07:23 +0000</pubDate>
+		<guid isPermaLink="false">/agile/git-at-the-command-line/#comment-69641</guid>
+
+					<description><![CDATA[[&#8230;] January&#8217;s Agile Staffordshire session looks set to be another great one. It will be great opportunity to acquire some experience with version control software. Git techniques will be presented in this session by the abundantly capable Paul Williams. Stop by on Meet-up and let Agile Staffordshire know that you&#8217;re intending to join in! [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] January&#8217;s Agile Staffordshire session looks set to be another great one. It will be great opportunity to acquire some experience with version control software. Git techniques will be presented in this session by the abundantly capable Paul Williams. Stop by on Meet-up and let Agile Staffordshire know that you&#8217;re intending to join in! [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on F# and Functional Programming Wrap-up by tortillisgroup		</title>
+		<link>/meeting-2/f-and-functional-programming-wrap-up/#comment-48424</link>
+
+		<dc:creator><![CDATA[tortillisgroup]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2014 20:27:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=696#comment-48424</guid>
+
+					<description><![CDATA[Thanks and i am looking forward to read more .:-)]]></description>
+			<content:encoded><![CDATA[<p>Thanks and i am looking forward to read more .:-)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on August &#8211; The Guilded Rose Kata by F# and Functional Programming Wrap-up &#187; Agile Staffordshire		</title>
+		<link>/agile/august-the-guilded-rose-kata/#comment-42790</link>
+
+		<dc:creator><![CDATA[F# and Functional Programming Wrap-up &#187; Agile Staffordshire]]></dc:creator>
+		<pubDate>Thu, 28 Aug 2014 02:14:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=689#comment-42790</guid>
+
+					<description><![CDATA[[&#8230;] look forward to our August session &#8211; The Gilded Rose kata. I apologise for tardiness of this follow-up post. I&#8217;ve been working (with agility) on [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] look forward to our August session &#8211; The Gilded Rose kata. I apologise for tardiness of this follow-up post. I&#8217;ve been working (with agility) on [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on July &#8211; An Introduction to Functional Programming with F# by paulswilliams		</title>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-37384</link>
+
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2014 07:32:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=683#comment-37384</guid>
+
+					<description><![CDATA[And the slides are at http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp]]></description>
+			<content:encoded><![CDATA[<p>And the slides are at <a href="http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp" rel="nofollow ugc">http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on July &#8211; An Introduction to Functional Programming with F# by Agile Staffordshire July 2014 &#124; Trevweb		</title>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-28400</link>
+
+		<dc:creator><![CDATA[Agile Staffordshire July 2014 &#124; Trevweb]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2014 00:48:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=683#comment-28400</guid>
+
+					<description><![CDATA[[&#8230;] month&#8217;s Agile Staffordshire session is going to a be a real treat. Ian Russell is scheduled to deliver a session on F#, a [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] month&#8217;s Agile Staffordshire session is going to a be a real treat. Ian Russell is scheduled to deliver a session on F#, a [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on July &#8211; An Introduction to Functional Programming with F# by Trevor Adams		</title>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-26491</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2014 01:57:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=683#comment-26491</guid>
+
+					<description><![CDATA[I have checked with the University staff and F# is installed in K102 labs.]]></description>
+			<content:encoded><![CDATA[<p>I have checked with the University staff and F# is installed in K102 labs.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

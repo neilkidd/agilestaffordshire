@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>open data &#8211; Agile Staffordshire</title>
+	<atom:link href="/tag/open-data/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Wed, 30 Apr 2014 22:57:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>Open Data Institute Retrospective</title>
+		<link>/retrospectives/open-data-institute-retrospective/</link>
+					<comments>/retrospectives/open-data-institute-retrospective/#respond</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2014 22:57:20 +0000</pubDate>
+				<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[ODI]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[retrospective]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[Stuart Harrison]]></category>
+		<category><![CDATA[value]]></category>
+		<guid isPermaLink="false">/?p=645</guid>
+
+					<description><![CDATA[Stuart Harrison, ruby developer for the ODI, introduced us to the ODI&#8217;s mission and how it facilitates &#8216;openness&#8217;. I think for many Agile Staffordshire participants, including me, it was a great introduction to an organisation of which only the name may have been familiar. Stuart provided a spirited talk on the rationale for open data and [&#8230;]]]></description>
+		
+					<wfw:commentRss>/retrospectives/open-data-institute-retrospective/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">645</post-id>	</item>
+	</channel>
+</rss>

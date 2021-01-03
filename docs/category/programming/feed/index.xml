@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Programming &#8211; Agile Staffordshire</title>
+	<atom:link href="/category/programming/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Thu, 28 Aug 2014 02:14:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>F# and Functional Programming Wrap-up</title>
+		<link>/meeting-2/f-and-functional-programming-wrap-up/</link>
+					<comments>/meeting-2/f-and-functional-programming-wrap-up/#comments</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 28 Aug 2014 02:14:40 +0000</pubDate>
+				<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<guid isPermaLink="false">/?p=696</guid>
+
+					<description><![CDATA[Agile Staffordshire were fortunate to have Ian Russell talk to us about functional programming. Ian&#8217;s session on functional programming really got us fired up with something new. I was swept away with Ian&#8217;s abundant enthusiasm for the discipline; thank you, Ian! If you get the chance to meet Ian and discuss F#, I think you&#8217;d be wise [&#8230;]]]></description>
+		
+					<wfw:commentRss>/meeting-2/f-and-functional-programming-wrap-up/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">696</post-id>	</item>
+		<item>
+		<title>June 2014 &#8211; Is TDD Dead?</title>
+		<link>/agile/june-2014-is-tdd-dead/</link>
+					<comments>/agile/june-2014-is-tdd-dead/#comments</comments>
+		
+		<dc:creator><![CDATA[Jon Willis]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2014 21:07:19 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Refactoring]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<category><![CDATA[Testing]]></category>
+		<guid isPermaLink="false">/?p=671</guid>
+
+					<description><![CDATA[Date: Thursday 26th June 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) Fear not, TDD is not dead, although it&#8217;s certainly been talked to death this month. This catchy title has been doing the rounds on the web recently since the Kent Beck + Martin Fowler + David Heinemeier Hansson talks. This month we are going to [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/june-2014-is-tdd-dead/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">671</post-id>	</item>
+		<item>
+		<title>Lean Code Retrospective</title>
+		<link>/retrospectives/lean-code-retrospective/</link>
+					<comments>/retrospectives/lean-code-retrospective/#respond</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2014 01:24:48 +0000</pubDate>
+				<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<guid isPermaLink="false">/?p=661</guid>
+
+					<description><![CDATA[It&#8217;s great to consider concepts around a practical challenge. Lean code is best considered with a working example. It doesn&#8217;t take a complex/large problem to highlight the issues and this session hit home. Paul Williams gave a &#8216;lightning talk&#8217; on Lean Code based on slides by Chris Parsons, and quickly got us in front of [&#8230;]]]></description>
+		
+					<wfw:commentRss>/retrospectives/lean-code-retrospective/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">661</post-id>	</item>
+		<item>
+		<title>May 2014 – Lean Code Challenge</title>
+		<link>/agile/may-2014-lean-code-challenge/</link>
+					<comments>/agile/may-2014-lean-code-challenge/#comments</comments>
+		
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Sun, 18 May 2014 13:22:34 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">/?p=652</guid>
+
+					<description><![CDATA[Date: Thursday 29th May 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) For this month&#8217;s session, we&#8217;ve decided to re-run the Lean Code Challenge that was run back in July 2011. The format is quite simple &#8211; Paul will introduce 7 key Lean Software principles and their importance in software development. Following this, the code challenge will [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/may-2014-lean-code-challenge/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">652</post-id>	</item>
+		<item>
+		<title>Anagram Kata (Strikes Back)</title>
+		<link>/kata/anagram-kata-strikes-back/</link>
+					<comments>/kata/anagram-kata-strikes-back/#comments</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2014 22:59:07 +0000</pubDate>
+				<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Refactoring]]></category>
+		<guid isPermaLink="false">/?p=631</guid>
+
+					<description><![CDATA[Date: Thursday 27th March 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) March is all about code kata. We shall be visiting a kata that has been run before &#8211; Anagram! If you do not know what code kata is, start with Dave&#8217;s Blog and then read his anagram kata post. We like change, so consider [&#8230;]]]></description>
+		
+					<wfw:commentRss>/kata/anagram-kata-strikes-back/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">631</post-id>	</item>
+		<item>
+		<title>Lego Robots</title>
+		<link>/meeting-2/lego-robots/</link>
+					<comments>/meeting-2/lego-robots/#comments</comments>
+		
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Sun, 16 Feb 2014 18:03:52 +0000</pubDate>
+				<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[lego mindstorms]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">/?p=625</guid>
+
+					<description><![CDATA[Date: Thursday 27th February 2014 Time: 7:00pm Venue: Staffordshire University – Stafford Campus (Octagon building, K102) This month, LEGO ROBOTS! Andrew Seward (@MrAndrew) will show us how to bring together as one the two higher art forms of programming and Lego &#8211; an overview of what&#8217;s involved and why it&#8217;s such a great idea, and then we&#8217;ll get the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/meeting-2/lego-robots/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">625</post-id>	</item>
+	</channel>
+</rss>

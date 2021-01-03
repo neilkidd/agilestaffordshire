@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>lego mindstorms &#8211; Agile Staffordshire</title>
+	<atom:link href="/tag/lego-mindstorms/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Sun, 16 Feb 2014 18:03:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>Lego Robots</title>
+		<link>/meeting-2/lego-robots/</link>
+					<comments>/meeting-2/lego-robots/#comments</comments>
+		
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Sun, 16 Feb 2014 18:03:52 +0000</pubDate>
+				<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[lego mindstorms]]></category>
+		<category><![CDATA[programming]]></category>
+		<guid isPermaLink="false">/?p=625</guid>
+
+					<description><![CDATA[Date: Thursday 27th February 2014 Time: 7:00pm Venue: Staffordshire University – Stafford Campus (Octagon building, K102) This month, LEGO ROBOTS! Andrew Seward (@MrAndrew) will show us how to bring together as one the two higher art forms of programming and Lego &#8211; an overview of what&#8217;s involved and why it&#8217;s such a great idea, and then we&#8217;ll get the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/meeting-2/lego-robots/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">625</post-id>	</item>
+	</channel>
+</rss>

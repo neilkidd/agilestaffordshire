@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Agile &#8211; Agile Staffordshire</title>
+	<atom:link href="/category/agile/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Thu, 05 Mar 2015 12:50:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>From Chaos to Kanban</title>
+		<link>/agile/from-chaos-to-kanban/</link>
+					<comments>/agile/from-chaos-to-kanban/#respond</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2015 12:50:04 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[Software Craftsmanship]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[experience]]></category>
+		<category><![CDATA[kanban]]></category>
+		<category><![CDATA[presentation]]></category>
+		<guid isPermaLink="false">/?p=777</guid>
+
+					<description><![CDATA[There&#8217;s always a great atmosphere and discussion at Agile Staffordshire whenever we have a guest speaker. February did not disappoint. Craig Judson (Operations Manager at Codeweavers) presented Kanban in general and then elaborated on how Kanban is utilised specifically for continuous delivery of software. Subsequently, a vibrant and energised discussion took place on working practices and project/product [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/from-chaos-to-kanban/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
+		<item>
+		<title>Git Introduction January 2015</title>
+		<link>/agile/git-introduction-january-2015/</link>
+					<comments>/agile/git-introduction-january-2015/#comments</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Sat, 14 Feb 2015 19:15:18 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<category><![CDATA[2015]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[january]]></category>
+		<category><![CDATA[staffordshire]]></category>
+		<category><![CDATA[version control]]></category>
+		<guid isPermaLink="false">/?p=748</guid>
+
+					<description><![CDATA[There was a great vibe this January; our first meeting of 2015. Paul Williams opened the year with a great session introducing Git. The session served as a useful introduction to those new to Git as a version control mechanism and incorporated rebasing techniques for those with intermediate skills. We experienced a wide spread of issues [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/git-introduction-january-2015/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">748</post-id>	</item>
+		<item>
+		<title>September &#8211; Agile Discussion</title>
+		<link>/agile/september-agile-discussion/</link>
+					<comments>/agile/september-agile-discussion/#respond</comments>
+		
+		<dc:creator><![CDATA[Jon Willis]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2014 19:53:26 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<guid isPermaLink="false">/?p=703</guid>
+
+					<description><![CDATA[Date: Thursday 25th September 2014Time: 19:00Venue: Staffordshire University – Stafford Campus (Octagon building, K102) Rally round all agile advocates, this month we are coming together to share and prepare ideas for next months Agile Lightning talks. Next month, with the new academic year under way, we will be sharing our experiences of Agile with a series of Lightning talks about what [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/september-agile-discussion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">703</post-id>	</item>
+		<item>
+		<title>August &#8211; The Guilded Rose Kata</title>
+		<link>/agile/august-the-guilded-rose-kata/</link>
+					<comments>/agile/august-the-guilded-rose-kata/#comments</comments>
+		
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2014 09:23:46 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[guildedrose]]></category>
+		<category><![CDATA[kata]]></category>
+		<guid isPermaLink="false">/?p=689</guid>
+
+					<description><![CDATA[Date: Thursday 28th August 2014Time: 19:00Venue: Staffordshire University – Stafford Campus (Octagon building, K102) The Guilded Rose Kata fictionalizes the experience of working with someone else&#8217;s code. You&#8217;ll probably groan when you first see the code provided to you. The amount of code isn&#8217;t overwhelming, its the prefect balance to evoke the feeling, &#8220;I can&#8217;t wait to re-write this cruft.&#8221; It&#8217;s suggested [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/august-the-guilded-rose-kata/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">689</post-id>	</item>
+		<item>
+		<title>July &#8211; An Introduction to Functional Programming with F#</title>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/</link>
+					<comments>/agile/july-an-introduction-to-functional-programming-with-f/#comments</comments>
+		
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2014 14:54:06 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Software Craftsmanship]]></category>
+		<guid isPermaLink="false">/?p=683</guid>
+
+					<description><![CDATA[Date: Thursday 31st July 2014Time: 19:00Venue: Staffordshire University – Stafford Campus (Octagon building, K102) F# is a functional-first programming language which helps you to tackle complex computing problems with simple, maintainable and robust code. In this session, Ian Russell will get you started on the road to thinking and writing code functionally. If you’re interested, please sign up on meetup.com]]></description>
+		
+					<wfw:commentRss>/agile/july-an-introduction-to-functional-programming-with-f/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">683</post-id>	</item>
+		<item>
+		<title>June 2014 &#8211; Is TDD Dead?</title>
+		<link>/agile/june-2014-is-tdd-dead/</link>
+					<comments>/agile/june-2014-is-tdd-dead/#comments</comments>
+		
+		<dc:creator><![CDATA[Jon Willis]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2014 21:07:19 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Refactoring]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<category><![CDATA[Testing]]></category>
+		<guid isPermaLink="false">/?p=671</guid>
+
+					<description><![CDATA[Date: Thursday 26th June 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) Fear not, TDD is not dead, although it&#8217;s certainly been talked to death this month. This catchy title has been doing the rounds on the web recently since the Kent Beck + Martin Fowler + David Heinemeier Hansson talks. This month we are going to [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/june-2014-is-tdd-dead/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">671</post-id>	</item>
+		<item>
+		<title>May 2014 – Lean Code Challenge</title>
+		<link>/agile/may-2014-lean-code-challenge/</link>
+					<comments>/agile/may-2014-lean-code-challenge/#comments</comments>
+		
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Sun, 18 May 2014 13:22:34 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">/?p=652</guid>
+
+					<description><![CDATA[Date: Thursday 29th May 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) For this month&#8217;s session, we&#8217;ve decided to re-run the Lean Code Challenge that was run back in July 2011. The format is quite simple &#8211; Paul will introduce 7 key Lean Software principles and their importance in software development. Following this, the code challenge will [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/may-2014-lean-code-challenge/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">652</post-id>	</item>
+		<item>
+		<title>Guest speaker @pezholio presents an introduction to the Open Data Institute</title>
+		<link>/agile/guest-speaker-pezholio-presents-an-introduction-to-the-open-data-institute/</link>
+					<comments>/agile/guest-speaker-pezholio-presents-an-introduction-to-the-open-data-institute/#comments</comments>
+		
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2014 13:07:51 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<guid isPermaLink="false">/?p=641</guid>
+
+					<description><![CDATA[Date: Thursday 24th April 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) Stuart Harrison, a ruby developer at the Open Data Institute will be giving a talk entitled &#8220;Open Data, Open Development and the Open Data Institute&#8221;, and he&#8217;ll be talking about open data in general (what open data is, and what good open data looks [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/guest-speaker-pezholio-presents-an-introduction-to-the-open-data-institute/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">641</post-id>	</item>
+		<item>
+		<title>January 2014 &#8211; Kata with Constraints</title>
+		<link>/agile/january-2014-kata-with-constraints/</link>
+					<comments>/agile/january-2014-kata-with-constraints/#comments</comments>
+		
+		<dc:creator><![CDATA[Jon Willis]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2014 13:42:48 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Kata]]></category>
+		<guid isPermaLink="false">/?p=612</guid>
+
+					<description><![CDATA[Date: Thursday 23rd January 2014 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (Octagon building, K102) With the new year now behind us, to kick start 2014 Agile Staffordshire will be going back to basics with a twist. A key technique in agile development is Test Driven Development (TDD), a difficult skill to master yet often practiced through simple Kata [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/january-2014-kata-with-constraints/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">612</post-id>	</item>
+		<item>
+		<title>December 2013 &#8211; Christmas Gathering</title>
+		<link>/agile/december-2013-christmas-gathering/</link>
+					<comments>/agile/december-2013-christmas-gathering/#respond</comments>
+		
+		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2013 20:30:34 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<guid isPermaLink="false">/?p=604</guid>
+
+					<description><![CDATA[Date: Tuesday 17th December 2013 Time: 7:00pm Venue: The Morris Man Location: Google Maps Social We have not planned a particular theme or activity for this meeting &#8211; simply a jolly good pre-Christmas meal and get together. Hope to see you there, Neil]]></description>
+		
+					<wfw:commentRss>/agile/december-2013-christmas-gathering/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">604</post-id>	</item>
+	</channel>
+</rss>

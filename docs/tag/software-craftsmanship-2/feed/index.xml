@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>software craftsmanship &#8211; Agile Staffordshire</title>
+	<atom:link href="/tag/software-craftsmanship-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Sat, 21 May 2011 12:58:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>May Meeting: Software Craftsmanship</title>
+		<link>/meeting-2/may-meeting-software-craftsmanship-2011-round-up/</link>
+					<comments>/meeting-2/may-meeting-software-craftsmanship-2011-round-up/#respond</comments>
+		
+		<dc:creator><![CDATA[paulshannon]]></dc:creator>
+		<pubDate>Sat, 21 May 2011 12:58:08 +0000</pubDate>
+				<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Software Craftsmanship]]></category>
+		<category><![CDATA[clean code]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[meeting]]></category>
+		<category><![CDATA[software craftsmanship]]></category>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=53</guid>
+
+					<description><![CDATA[Details Date: Tuesday 31st May 2011. Time: 7:15pm start to a 9:15pm (doors open at 6:30pm and close with the pub). Location: http://www.pieandale.com/ Theme: Software Craftsmanship Round-up Software Craftsmanship The analogy of software development as a medieval style craft will romanticise our profession but it also provides a keen set of principles that will ensure software produced [&#8230;]]]></description>
+		
+					<wfw:commentRss>/meeting-2/may-meeting-software-craftsmanship-2011-round-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">53</post-id>	</item>
+	</channel>
+</rss>

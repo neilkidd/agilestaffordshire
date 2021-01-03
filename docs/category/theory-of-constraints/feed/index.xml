@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Theory of Constraints &#8211; Agile Staffordshire</title>
+	<atom:link href="/category/theory-of-constraints/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Tue, 20 Sep 2011 12:44:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>September Meeting: Systems Thinking Games</title>
+		<link>/meeting-2/september-meeting-systems-thinking-games/</link>
+					<comments>/meeting-2/september-meeting-systems-thinking-games/#respond</comments>
+		
+		<dc:creator><![CDATA[paulshannon]]></dc:creator>
+		<pubDate>Tue, 20 Sep 2011 12:44:23 +0000</pubDate>
+				<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Systems Thinking]]></category>
+		<category><![CDATA[Theory of Constraints]]></category>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=85</guid>
+
+					<description><![CDATA[Details Date: Thursday 29th September Time: 7:15pm start to a 9:15pm (doors open at 6:30pm and close when the games have finished). Location: http://www.pieandale.com/ Theme: Systems Thinking Systems Thinking Following the excellent talks from Kevin Rutherford and Harriet Shannon in June we&#8217;re continuing to think about how teams and environments can be improved by considering how things [&#8230;]]]></description>
+		
+					<wfw:commentRss>/meeting-2/september-meeting-systems-thinking-games/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">85</post-id>	</item>
+	</channel>
+</rss>

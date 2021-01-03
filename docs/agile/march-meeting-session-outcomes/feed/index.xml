@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: March Meeting: Session Outcomes	</title>
+	<atom:link href="/agile/march-meeting-session-outcomes/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/march-meeting-session-outcomes/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Tue, 24 Nov 2015 11:04:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Mark van Harmelen		</title>
+		<link>/agile/march-meeting-session-outcomes/#comment-2</link>
+
+		<dc:creator><![CDATA[Mark van Harmelen]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2011 21:20:33 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=40#comment-2</guid>
+
+					<description><![CDATA[Having run an agile and TDD course for MSc students recently, it seems that there are various ways to go, pair programming using a TDD approach is part of the story, but there are also possible courses which take in more of an agile approach: This might include practical experience in agile requirements gathering using user stories, estimation, iterations, self-improving teams and so on. 
+
+This academic year at the University of Manchester School of Computer Science we  ran a five week course to MSC level students with prior CSc degrees. There was one formal and on informal contact day per week, and the students did additional group work. We covered TDD/pair programming/Scrum (two sprints in the latter four weeks), user stories, retrospectives, and velocity/estimation with a heavy emphasis on the formation of self-improving teams.  We did assessment largely by test, and a pass/fail on their code and tests (all groups passed). Not my ideal kind of assessment. Regarding all of these I would say the challenge is not so much assessment (which can be difficult) but rather the amount of coaching and feedback involved in producing agile teams that can do high quality work.]]></description>
+			<content:encoded><![CDATA[<p>Having run an agile and TDD course for MSc students recently, it seems that there are various ways to go, pair programming using a TDD approach is part of the story, but there are also possible courses which take in more of an agile approach: This might include practical experience in agile requirements gathering using user stories, estimation, iterations, self-improving teams and so on. </p>
+<p>This academic year at the University of Manchester School of Computer Science we  ran a five week course to MSC level students with prior CSc degrees. There was one formal and on informal contact day per week, and the students did additional group work. We covered TDD/pair programming/Scrum (two sprints in the latter four weeks), user stories, retrospectives, and velocity/estimation with a heavy emphasis on the formation of self-improving teams.  We did assessment largely by test, and a pass/fail on their code and tests (all groups passed). Not my ideal kind of assessment. Regarding all of these I would say the challenge is not so much assessment (which can be difficult) but rather the amount of coaching and feedback involved in producing agile teams that can do high quality work.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

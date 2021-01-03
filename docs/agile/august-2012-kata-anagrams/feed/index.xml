@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: August 2012 &#8211; Kata: Anagrams	</title>
+	<atom:link href="/agile/august-2012-kata-anagrams/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/august-2012-kata-anagrams/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Thu, 20 Sep 2012 15:20:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Jason Underhill		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-17</link>
+
+		<dc:creator><![CDATA[Jason Underhill]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2012 15:20:31 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-17</guid>
+
+					<description><![CDATA[My ruby solution.. https://github.com/junderhill/anagrams]]></description>
+			<content:encoded><![CDATA[<p>My ruby solution.. <a href="https://github.com/junderhill/anagrams" rel="nofollow ugc">https://github.com/junderhill/anagrams</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-16</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 20 Sep 2012 13:06:37 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-16</guid>
+
+					<description><![CDATA[I&#039;ve hosted one of Cathy&#039;s offerings on github, &lt;a href=&quot;https://github.com/TrevStoke/CathyAnagramKataJava rel=&quot;nofollow&quot;&gt;Java implementation of Anagram&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve hosted one of Cathy&#8217;s offerings on github, <a href="https://github.com/TrevStoke/CathyAnagramKataJava rel="nofollow">Java implementation of Anagram</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-15</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2012 09:47:56 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-15</guid>
+
+					<description><![CDATA[We shall continue with this kata in the &lt;a href=&quot;http://agilestaffordshire.org/?p=292&quot; rel=&quot;nofollow&quot;&gt;September meeting&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>We shall continue with this kata in the <a href="http://agilestaffordshire.org/?p=292" rel="nofollow">September meeting</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-14</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2012 22:24:19 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-14</guid>
+
+					<description><![CDATA[I do love the brevity of Python. I&#039;ve been looking at Python on &lt;a href=&quot;http://udacity.com/&quot; rel=&quot;nofollow&quot;&gt;Udacity&lt;/a&gt; and really enjoying it.]]></description>
+			<content:encoded><![CDATA[<p>I do love the brevity of Python. I&#8217;ve been looking at Python on <a href="http://udacity.com/" rel="nofollow">Udacity</a> and really enjoying it.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-13</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2012 22:22:32 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-13</guid>
+
+					<description><![CDATA[A &lt;a href=&quot;https://github.com/TrevStoke/AnagramKataCSharp.git&quot; rel=&quot;nofollow&quot;&gt;C# version on github&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>A <a href="https://github.com/TrevStoke/AnagramKataCSharp.git" rel="nofollow">C# version on github</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-12</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Mon, 17 Sep 2012 20:19:36 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-12</guid>
+
+					<description><![CDATA[Also, a &lt;a href=&quot;https://github.com/TrevStoke/AnagramKataJava&quot; rel=&quot;nofollow&quot;&gt;Java version&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Also, a <a href="https://github.com/TrevStoke/AnagramKataJava" rel="nofollow">Java version</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rob Porter		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-11</link>
+
+		<dc:creator><![CDATA[Rob Porter]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2012 19:27:54 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-11</guid>
+
+					<description><![CDATA[My attempt at a &lt;a href=&quot;https://github.com/robporter/anagram.git&quot; rel=&quot;nofollow&quot;&gt;Python version on Github&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>My attempt at a <a href="https://github.com/robporter/anagram.git" rel="nofollow">Python version on Github</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-10</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2012 17:55:09 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-10</guid>
+
+					<description><![CDATA[There&#039;s now a &lt;a href=&quot;https://github.com/TrevStoke/AnagramKataPHP&quot; rel=&quot;nofollow&quot;&gt;PHP version on github&lt;/a&gt; too.]]></description>
+			<content:encoded><![CDATA[<p>There&#8217;s now a <a href="https://github.com/TrevStoke/AnagramKataPHP" rel="nofollow">PHP version on github</a> too.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/august-2012-kata-anagrams/#comment-9</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Sun, 02 Sep 2012 17:53:20 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=281#comment-9</guid>
+
+					<description><![CDATA[I&#039;ve added an &lt;a href=&quot;https://github.com/TrevStoke/AnagramKata&quot; rel=&quot;nofollow&quot;&gt;Objective-C implementation of this kata on Github&lt;/a&gt;.
+
+If others post here we can use the rough versions for an optimisation session at a later date. A selection of languages will be useful.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve added an <a href="https://github.com/TrevStoke/AnagramKata" rel="nofollow">Objective-C implementation of this kata on Github</a>.</p>
+<p>If others post here we can use the rough versions for an optimisation session at a later date. A selection of languages will be useful.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

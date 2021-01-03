@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: August Meeting: Code Smell Clinic	</title>
+	<atom:link href="/agile/august-meeting-code-smell-clinic/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/august-meeting-code-smell-clinic/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Mon, 19 Mar 2012 17:23:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Blogs From The Geeks &#187; Blog Archive &#187; 7digital Community Events - Intermittent insightful nuggets		</title>
+		<link>/agile/august-meeting-code-smell-clinic/#comment-7</link>
+
+		<dc:creator><![CDATA[Blogs From The Geeks &#187; Blog Archive &#187; 7digital Community Events - Intermittent insightful nuggets]]></dc:creator>
+		<pubDate>Mon, 19 Mar 2012 17:23:34 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=82#comment-7</guid>
+
+					<description><![CDATA[[...] premiered his talk at XP Manchester early last year and also performed it at Agile Staffordshire where they found that the Code Smell Clinic was a good idea &#8211; like group therapy/free [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] premiered his talk at XP Manchester early last year and also performed it at Agile Staffordshire where they found that the Code Smell Clinic was a good idea &#8211; like group therapy/free [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Paul Williams		</title>
+		<link>/agile/august-meeting-code-smell-clinic/#comment-6</link>
+
+		<dc:creator><![CDATA[Paul Williams]]></dc:creator>
+		<pubDate>Sun, 21 Aug 2011 17:44:53 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?p=82#comment-6</guid>
+
+					<description><![CDATA[After 3 day backpack and no shower, can&#039;t make it cuz im a smell coder ;)]]></description>
+			<content:encoded><![CDATA[<p>After 3 day backpack and no shower, can&#8217;t make it cuz im a smell coder 😉</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

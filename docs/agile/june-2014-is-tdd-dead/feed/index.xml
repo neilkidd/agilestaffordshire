@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: June 2014 &#8211; Is TDD Dead?	</title>
+	<atom:link href="/agile/june-2014-is-tdd-dead/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/june-2014-is-tdd-dead/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Tue, 08 Jul 2014 21:11:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/agile/june-2014-is-tdd-dead/#comment-22188</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2014 21:11:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=671#comment-22188</guid>
+
+					<description><![CDATA[I was unable to attend, do let me know how it went!]]></description>
+			<content:encoded><![CDATA[<p>I was unable to attend, do let me know how it went!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Paul Boocock		</title>
+		<link>/agile/june-2014-is-tdd-dead/#comment-17404</link>
+
+		<dc:creator><![CDATA[Paul Boocock]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2014 10:11:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=671#comment-17404</guid>
+
+					<description><![CDATA[Sounds good and I&#039;ll hopefully be there. Nothing on meetup.com at the moment though.]]></description>
+			<content:encoded><![CDATA[<p>Sounds good and I&#8217;ll hopefully be there. Nothing on meetup.com at the moment though.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

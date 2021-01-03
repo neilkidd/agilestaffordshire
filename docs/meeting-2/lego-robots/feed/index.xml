@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Lego Robots	</title>
+	<atom:link href="/meeting-2/lego-robots/feed/" rel="self" type="application/rss+xml" />
+	<link>/meeting-2/lego-robots/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Thu, 13 Mar 2014 21:04:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Trevor Adams		</title>
+		<link>/meeting-2/lego-robots/#comment-4225</link>
+
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2014 21:04:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=625#comment-4225</guid>
+
+					<description><![CDATA[This was such an excellent session! The hardware was behaving nicely. I have to give some serious consideration to getting one of these kits &#039;for the kids&#039;.]]></description>
+			<content:encoded><![CDATA[<p>This was such an excellent session! The hardware was behaving nicely. I have to give some serious consideration to getting one of these kits &#8216;for the kids&#8217;.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jonathan Willis		</title>
+		<link>/meeting-2/lego-robots/#comment-4194</link>
+
+		<dc:creator><![CDATA[Jonathan Willis]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2014 17:42:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=625#comment-4194</guid>
+
+					<description><![CDATA[I&#039;m really looking forward to this!]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m really looking forward to this!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

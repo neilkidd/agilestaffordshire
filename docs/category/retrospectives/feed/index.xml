@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Retrospectives &#8211; Agile Staffordshire</title>
+	<atom:link href="/category/retrospectives/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Sat, 14 Feb 2015 19:24:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+<site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
+		<title>Git Introduction January 2015</title>
+		<link>/agile/git-introduction-january-2015/</link>
+					<comments>/agile/git-introduction-january-2015/#comments</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Sat, 14 Feb 2015 19:15:18 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<category><![CDATA[2015]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[january]]></category>
+		<category><![CDATA[staffordshire]]></category>
+		<category><![CDATA[version control]]></category>
+		<guid isPermaLink="false">/?p=748</guid>
+
+					<description><![CDATA[There was a great vibe this January; our first meeting of 2015. Paul Williams opened the year with a great session introducing Git. The session served as a useful introduction to those new to Git as a version control mechanism and incorporated rebasing techniques for those with intermediate skills. We experienced a wide spread of issues [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/git-introduction-january-2015/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">748</post-id>	</item>
+		<item>
+		<title>F# and Functional Programming Wrap-up</title>
+		<link>/meeting-2/f-and-functional-programming-wrap-up/</link>
+					<comments>/meeting-2/f-and-functional-programming-wrap-up/#comments</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 28 Aug 2014 02:14:40 +0000</pubDate>
+				<category><![CDATA[Languages]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<guid isPermaLink="false">/?p=696</guid>
+
+					<description><![CDATA[Agile Staffordshire were fortunate to have Ian Russell talk to us about functional programming. Ian&#8217;s session on functional programming really got us fired up with something new. I was swept away with Ian&#8217;s abundant enthusiasm for the discipline; thank you, Ian! If you get the chance to meet Ian and discuss F#, I think you&#8217;d be wise [&#8230;]]]></description>
+		
+					<wfw:commentRss>/meeting-2/f-and-functional-programming-wrap-up/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">696</post-id>	</item>
+		<item>
+		<title>June 2014 &#8211; Is TDD Dead?</title>
+		<link>/agile/june-2014-is-tdd-dead/</link>
+					<comments>/agile/june-2014-is-tdd-dead/#comments</comments>
+		
+		<dc:creator><![CDATA[Jon Willis]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2014 21:07:19 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Kata]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Refactoring]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<category><![CDATA[Testing]]></category>
+		<guid isPermaLink="false">/?p=671</guid>
+
+					<description><![CDATA[Date: Thursday 26th June 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) Fear not, TDD is not dead, although it&#8217;s certainly been talked to death this month. This catchy title has been doing the rounds on the web recently since the Kent Beck + Martin Fowler + David Heinemeier Hansson talks. This month we are going to [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/june-2014-is-tdd-dead/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">671</post-id>	</item>
+		<item>
+		<title>Lean Code Retrospective</title>
+		<link>/retrospectives/lean-code-retrospective/</link>
+					<comments>/retrospectives/lean-code-retrospective/#respond</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2014 01:24:48 +0000</pubDate>
+				<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Programming]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<guid isPermaLink="false">/?p=661</guid>
+
+					<description><![CDATA[It&#8217;s great to consider concepts around a practical challenge. Lean code is best considered with a working example. It doesn&#8217;t take a complex/large problem to highlight the issues and this session hit home. Paul Williams gave a &#8216;lightning talk&#8217; on Lean Code based on slides by Chris Parsons, and quickly got us in front of [&#8230;]]]></description>
+		
+					<wfw:commentRss>/retrospectives/lean-code-retrospective/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">661</post-id>	</item>
+		<item>
+		<title>Open Data Institute Retrospective</title>
+		<link>/retrospectives/open-data-institute-retrospective/</link>
+					<comments>/retrospectives/open-data-institute-retrospective/#respond</comments>
+		
+		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2014 22:57:20 +0000</pubDate>
+				<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[ODI]]></category>
+		<category><![CDATA[open data]]></category>
+		<category><![CDATA[retrospective]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[Stuart Harrison]]></category>
+		<category><![CDATA[value]]></category>
+		<guid isPermaLink="false">/?p=645</guid>
+
+					<description><![CDATA[Stuart Harrison, ruby developer for the ODI, introduced us to the ODI&#8217;s mission and how it facilitates &#8216;openness&#8217;. I think for many Agile Staffordshire participants, including me, it was a great introduction to an organisation of which only the name may have been familiar. Stuart provided a spirited talk on the rationale for open data and [&#8230;]]]></description>
+		
+					<wfw:commentRss>/retrospectives/open-data-institute-retrospective/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">645</post-id>	</item>
+		<item>
+		<title>September 2013 &#8211; Retrospective</title>
+		<link>/agile/september-2013-retrospective/</link>
+					<comments>/agile/september-2013-retrospective/#respond</comments>
+		
+		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2013 12:33:10 +0000</pubDate>
+				<category><![CDATA[Agile]]></category>
+		<category><![CDATA[Meeting]]></category>
+		<category><![CDATA[Retrospectives]]></category>
+		<category><![CDATA[Software Craftsmanship]]></category>
+		<guid isPermaLink="false">/?p=531</guid>
+
+					<description><![CDATA[Following some discussion on the Google Groups, and offline, we decided to do an ad-hoc group retrospective during Septembers meet up. We didn&#8217;t follow the normal retro questions &#8211; what&#8217;s gone well, what can be improved etc. Rather, we brainstormed future session ideas, tabled the possibility of changing venues. We&#8217;ve been challenged on how to [&#8230;]]]></description>
+		
+					<wfw:commentRss>/agile/september-2013-retrospective/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">531</post-id>	</item>
+	</channel>
+</rss>

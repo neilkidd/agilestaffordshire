@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Scheduled Meeting Dates	</title>
+	<atom:link href="/scheduled-meeting-dates/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
+	<lastBuildDate>Sat, 27 Sep 2014 11:02:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Katie Taylor		</title>
+		<link>/scheduled-meeting-dates/#comment-4208</link>
+
+		<dc:creator><![CDATA[Katie Taylor]]></dc:creator>
+		<pubDate>Mon, 10 Mar 2014 13:38:37 +0000</pubDate>
+		<guid isPermaLink="false">http://agilestaffordshire.org/?page_id=312#comment-4208</guid>
+
+					<description><![CDATA[Call for Participation
+
+The AgileNorth Committee is inviting individuals or groups to submit presentation or workshop ideas for this year’s one day conference.  Interactive presentations are typically 1.5 hours with workshops up to 3 hours and should be based on some aspect of Agile product delivery.  Please submit brief details including title, description and indication of audience interaction by the deadline of Monday April 28th April 2014 to kjtaylor@uclan.ac.uk]]></description>
+			<content:encoded><![CDATA[<p>Call for Participation</p>
+<p>The AgileNorth Committee is inviting individuals or groups to submit presentation or workshop ideas for this year’s one day conference.  Interactive presentations are typically 1.5 hours with workshops up to 3 hours and should be based on some aspect of Agile product delivery.  Please submit brief details including title, description and indication of audience interaction by the deadline of Monday April 28th April 2014 to <a href="mailto:kjtaylor@uclan.ac.uk">kjtaylor@uclan.ac.uk</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
