@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Functional Programming with Clojure	</title>
-	<atom:link href="/agilestaffordshire/events/functional-programming-with-clojure/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/events/functional-programming-with-clojure/</link>
+	<atom:link href="/events/functional-programming-with-clojure/feed/" rel="self" type="application/rss+xml" />
+	<link>/events/functional-programming-with-clojure/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Tue, 20 Aug 2019 10:22:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: Meetup &#8211; Functional Programming with Clojure &#124; Trevweb		</title>
-		<link>/agilestaffordshire/events/functional-programming-with-clojure/#comment-73460</link>
+		<link>/events/functional-programming-with-clojure/#comment-73460</link>
 
 		<dc:creator><![CDATA[Meetup &#8211; Functional Programming with Clojure &#124; Trevweb]]></dc:creator>
 		<pubDate>Sun, 11 Oct 2015 23:17:51 +0000</pubDate>
-		<guid isPermaLink="false">/agilestaffordshire/events/functional-programming-with-clojure/#comment-73460</guid>
+		<guid isPermaLink="false">/events/functional-programming-with-clojure/#comment-73460</guid>
 
 					<description><![CDATA[[&#8230;] detail regarding the meet-up can be found on the Agile Staffordshire event page. If you are reading this and want to sign up to attend, it can all be achieved from the Meetup [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] detail regarding the meet-up can be found on the Agile Staffordshire event page. If you are reading this and want to sign up to attend, it can all be achieved from the Meetup [&#8230;]</p>

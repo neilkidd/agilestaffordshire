@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Languages &#8211; Agile Staffordshire</title>
-	<atom:link href="/agilestaffordshire/category/languages/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/category/languages/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Thu, 28 Aug 2014 02:14:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>F# and Functional Programming Wrap-up</title>
-		<link>/agilestaffordshire/meeting-2/f-and-functional-programming-wrap-up/</link>
-					<comments>/agilestaffordshire/meeting-2/f-and-functional-programming-wrap-up/#comments</comments>
+		<link>/meeting-2/f-and-functional-programming-wrap-up/</link>
+					<comments>/meeting-2/f-and-functional-programming-wrap-up/#comments</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Thu, 28 Aug 2014 02:14:40 +0000</pubDate>
@@ -33,30 +33,30 @@
 		<category><![CDATA[Meeting]]></category>
 		<category><![CDATA[Programming]]></category>
 		<category><![CDATA[Retrospectives]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=696</guid>
+		<guid isPermaLink="false">/?p=696</guid>
 
 					<description><![CDATA[Agile Staffordshire were fortunate to have Ian Russell talk to us about functional programming. Ian&#8217;s session on functional programming really got us fired up with something new. I was swept away with Ian&#8217;s abundant enthusiasm for the discipline; thank you, Ian! If you get the chance to meet Ian and discuss F#, I think you&#8217;d be wise [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/meeting-2/f-and-functional-programming-wrap-up/feed/</wfw:commentRss>
+					<wfw:commentRss>/meeting-2/f-and-functional-programming-wrap-up/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">696</post-id>	</item>
 		<item>
 		<title>July &#8211; An Introduction to Functional Programming with F#</title>
-		<link>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/</link>
-					<comments>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/#comments</comments>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/</link>
+					<comments>/agile/july-an-introduction-to-functional-programming-with-f/#comments</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Fri, 11 Jul 2014 14:54:06 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Languages]]></category>
 		<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=683</guid>
+		<guid isPermaLink="false">/?p=683</guid>
 
 					<description><![CDATA[Date: Thursday 31st July 2014Time: 19:00Venue: Staffordshire University – Stafford Campus (Octagon building, K102) F# is a functional-first programming language which helps you to tackle complex computing problems with simple, maintainable and robust code. In this session, Ian Russell will get you started on the road to thinking and writing code functionally. If you’re interested, please sign up on meetup.com]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/july-an-introduction-to-functional-programming-with-f/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		

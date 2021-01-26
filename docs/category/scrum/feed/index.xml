@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Scrum &#8211; Agile Staffordshire</title>
-	<atom:link href="/agilestaffordshire/category/scrum/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/category/scrum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Sun, 13 Oct 2013 20:53:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>October 2013 &#8211; Agile Experience Guest Speaker</title>
-		<link>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/</link>
-					<comments>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/#comments</comments>
+		<link>/agile/october-2013-agile-experience-guest-speaker/</link>
+					<comments>/agile/october-2013-agile-experience-guest-speaker/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Sun, 13 Oct 2013 20:53:48 +0000</pubDate>
@@ -38,11 +38,11 @@
 		<category><![CDATA[software]]></category>
 		<category><![CDATA[tdd]]></category>
 		<category><![CDATA[university]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=544</guid>
+		<guid isPermaLink="false">/?p=544</guid>
 
 					<description><![CDATA[Date: Wednesday 30th October 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (Lecture Theatre 2 &#8211; the Octagon building) This month we welcome Mr Craig Judson from Codeweavers Limited. Codeweavers are a local company, based just outside Stafford in Dunston. They adopted agile techniques in 2007, starting with Scrum and have continued to evolve [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/october-2013-agile-experience-guest-speaker/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/october-2013-agile-experience-guest-speaker/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

@@ -3,14 +3,14 @@
  */
 
 #openid_enabled_link, .openid_link, #openid_identifier, #commentform #openid_identifier {
-	background-image: url('/agilestaffordshire/wp-content/plugins/openid/f/openid.gif');
+	background-image: url('/wp-content/plugins/openid/f/openid.gif');
 	background-position: 3px 50%;
 	background-repeat: no-repeat;
 	padding-left: 21px !important;
 }
 
 .openid_loading {
-	background: url('/agilestaffordshire/wp-content/plugins/openid/f/ajax-loader.gif') right center no-repeat;
+	background: url('/wp-content/plugins/openid/f/ajax-loader.gif') right center no-repeat;
 }
 
 #openid_comment {

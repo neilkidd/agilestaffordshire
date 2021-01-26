@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Experiences &#8211; Agile Staffordshire</title>
-	<atom:link href="/agilestaffordshire/category/experiences/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/category/experiences/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Thu, 05 Mar 2015 12:50:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>From Chaos to Kanban</title>
-		<link>/agilestaffordshire/agile/from-chaos-to-kanban/</link>
-					<comments>/agilestaffordshire/agile/from-chaos-to-kanban/#respond</comments>
+		<link>/agile/from-chaos-to-kanban/</link>
+					<comments>/agile/from-chaos-to-kanban/#respond</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Thu, 05 Mar 2015 12:50:04 +0000</pubDate>
@@ -37,19 +37,19 @@
 		<category><![CDATA[experience]]></category>
 		<category><![CDATA[kanban]]></category>
 		<category><![CDATA[presentation]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=777</guid>
+		<guid isPermaLink="false">/?p=777</guid>
 
 					<description><![CDATA[There&#8217;s always a great atmosphere and discussion at Agile Staffordshire whenever we have a guest speaker. February did not disappoint. Craig Judson (Operations Manager at Codeweavers) presented Kanban in general and then elaborated on how Kanban is utilised specifically for continuous delivery of software. Subsequently, a vibrant and energised discussion took place on working practices and project/product [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/from-chaos-to-kanban/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/from-chaos-to-kanban/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
 		<item>
 		<title>Git Introduction January 2015</title>
-		<link>/agilestaffordshire/agile/git-introduction-january-2015/</link>
-					<comments>/agilestaffordshire/agile/git-introduction-january-2015/#comments</comments>
+		<link>/agile/git-introduction-january-2015/</link>
+					<comments>/agile/git-introduction-january-2015/#comments</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Sat, 14 Feb 2015 19:15:18 +0000</pubDate>
@@ -63,38 +63,38 @@
 		<category><![CDATA[january]]></category>
 		<category><![CDATA[staffordshire]]></category>
 		<category><![CDATA[version control]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=748</guid>
+		<guid isPermaLink="false">/?p=748</guid>
 
 					<description><![CDATA[There was a great vibe this January; our first meeting of 2015. Paul Williams opened the year with a great session introducing Git. The session served as a useful introduction to those new to Git as a version control mechanism and incorporated rebasing techniques for those with intermediate skills. We experienced a wide spread of issues [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/git-introduction-january-2015/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/git-introduction-january-2015/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">748</post-id>	</item>
 		<item>
 		<title>Lean Code Retrospective</title>
-		<link>/agilestaffordshire/retrospectives/lean-code-retrospective/</link>
-					<comments>/agilestaffordshire/retrospectives/lean-code-retrospective/#respond</comments>
+		<link>/retrospectives/lean-code-retrospective/</link>
+					<comments>/retrospectives/lean-code-retrospective/#respond</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Thu, 12 Jun 2014 01:24:48 +0000</pubDate>
 				<category><![CDATA[Experiences]]></category>
 		<category><![CDATA[Programming]]></category>
 		<category><![CDATA[Retrospectives]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=661</guid>
+		<guid isPermaLink="false">/?p=661</guid>
 
 					<description><![CDATA[It&#8217;s great to consider concepts around a practical challenge. Lean code is best considered with a working example. It doesn&#8217;t take a complex/large problem to highlight the issues and this session hit home. Paul Williams gave a &#8216;lightning talk&#8217; on Lean Code based on slides by Chris Parsons, and quickly got us in front of [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/retrospectives/lean-code-retrospective/feed/</wfw:commentRss>
+					<wfw:commentRss>/retrospectives/lean-code-retrospective/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">661</post-id>	</item>
 		<item>
 		<title>Open Data Institute Retrospective</title>
-		<link>/agilestaffordshire/retrospectives/open-data-institute-retrospective/</link>
-					<comments>/agilestaffordshire/retrospectives/open-data-institute-retrospective/#respond</comments>
+		<link>/retrospectives/open-data-institute-retrospective/</link>
+					<comments>/retrospectives/open-data-institute-retrospective/#respond</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Wed, 30 Apr 2014 22:57:20 +0000</pubDate>
@@ -108,19 +108,19 @@
 		<category><![CDATA[software]]></category>
 		<category><![CDATA[Stuart Harrison]]></category>
 		<category><![CDATA[value]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=645</guid>
+		<guid isPermaLink="false">/?p=645</guid>
 
 					<description><![CDATA[Stuart Harrison, ruby developer for the ODI, introduced us to the ODI&#8217;s mission and how it facilitates &#8216;openness&#8217;. I think for many Agile Staffordshire participants, including me, it was a great introduction to an organisation of which only the name may have been familiar. Stuart provided a spirited talk on the rationale for open data and [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/retrospectives/open-data-institute-retrospective/feed/</wfw:commentRss>
+					<wfw:commentRss>/retrospectives/open-data-institute-retrospective/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">645</post-id>	</item>
 		<item>
 		<title>November 2013 &#8211; Brooklyn Beta and Testing with C</title>
-		<link>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/</link>
-					<comments>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/#comments</comments>
+		<link>/agile/november-2013-brooklyn-beta-testing-c/</link>
+					<comments>/agile/november-2013-brooklyn-beta-testing-c/#comments</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Sun, 17 Nov 2013 17:01:04 +0000</pubDate>
@@ -129,19 +129,19 @@
 		<category><![CDATA[Kata]]></category>
 		<category><![CDATA[Meeting]]></category>
 		<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=588</guid>
+		<guid isPermaLink="false">/?p=588</guid>
 
 					<description><![CDATA[Date: Thursday 28th November 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (K102 &#8211; the Octagon building) Brooklyn Beta is a friendly web conference aimed at the “work hard and be nice to people” crowd. Trevor Adams, a long time member of Agile Staffordshire, attended the event and will be presenting a short talk [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/november-2013-brooklyn-beta-testing-c/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">588</post-id>	</item>
 		<item>
 		<title>Last month&#8217;s agile experience session with Craig Judson</title>
-		<link>/agilestaffordshire/agile/last-months-agile-experience-session-with-craig-judson/</link>
-					<comments>/agilestaffordshire/agile/last-months-agile-experience-session-with-craig-judson/#respond</comments>
+		<link>/agile/last-months-agile-experience-session-with-craig-judson/</link>
+					<comments>/agile/last-months-agile-experience-session-with-craig-judson/#respond</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Thu, 14 Nov 2013 13:28:22 +0000</pubDate>
@@ -152,11 +152,11 @@
 		<category><![CDATA[codeweavers]]></category>
 		<category><![CDATA[experiences]]></category>
 		<category><![CDATA[lean]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=581</guid>
+		<guid isPermaLink="false">/?p=581</guid>
 
 					<description><![CDATA[Firstly, I&#8217;d like to thank Craig for an excellent October session on Codeweaver&#8217;s experiences with agile. It was our first session in a Staffordshire University lecture theatre so well done Craig for dealing with such an imposing stage, especially with the growing number of attendees 🙂 It was good to see this increase in newcomers [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/last-months-agile-experience-session-with-craig-judson/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/last-months-agile-experience-session-with-craig-judson/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

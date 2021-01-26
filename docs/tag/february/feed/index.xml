@@ -12,8 +12,8 @@
 
 <channel>
 	<title>february &#8211; Agile Staffordshire</title>
-	<atom:link href="/agilestaffordshire/tag/february/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/tag/february/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 07 Mar 2011 22:05:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>Retrospectives</title>
-		<link>/agilestaffordshire/agile/retrospectives/</link>
-					<comments>/agilestaffordshire/agile/retrospectives/#respond</comments>
+		<link>/agile/retrospectives/</link>
+					<comments>/agile/retrospectives/#respond</comments>
 		
 		<dc:creator><![CDATA[paulshannon]]></dc:creator>
 		<pubDate>Mon, 07 Mar 2011 22:05:13 +0000</pubDate>
@@ -39,7 +39,7 @@
 
 					<description><![CDATA[At the February meeting we ended proceedings in a truly Agile manner by inspecting and adapting the way that the group and meetings were conducted through a Retrospective. For those who found this useful and want to take this away and try it elsewhere then here is the format we used: Give everyone some sticky [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/retrospectives/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/retrospectives/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

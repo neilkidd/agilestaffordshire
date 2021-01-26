@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Software Craftsmanship &#8211; Agile Staffordshire</title>
-	<atom:link href="/agilestaffordshire/category/software-craftsmanship/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/category/software-craftsmanship/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Thu, 05 Mar 2015 12:50:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>From Chaos to Kanban</title>
-		<link>/agilestaffordshire/agile/from-chaos-to-kanban/</link>
-					<comments>/agilestaffordshire/agile/from-chaos-to-kanban/#respond</comments>
+		<link>/agile/from-chaos-to-kanban/</link>
+					<comments>/agile/from-chaos-to-kanban/#respond</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Thu, 05 Mar 2015 12:50:04 +0000</pubDate>
@@ -37,38 +37,38 @@
 		<category><![CDATA[experience]]></category>
 		<category><![CDATA[kanban]]></category>
 		<category><![CDATA[presentation]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=777</guid>
+		<guid isPermaLink="false">/?p=777</guid>
 
 					<description><![CDATA[There&#8217;s always a great atmosphere and discussion at Agile Staffordshire whenever we have a guest speaker. February did not disappoint. Craig Judson (Operations Manager at Codeweavers) presented Kanban in general and then elaborated on how Kanban is utilised specifically for continuous delivery of software. Subsequently, a vibrant and energised discussion took place on working practices and project/product [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/from-chaos-to-kanban/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/from-chaos-to-kanban/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
 		<item>
 		<title>July &#8211; An Introduction to Functional Programming with F#</title>
-		<link>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/</link>
-					<comments>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/#comments</comments>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/</link>
+					<comments>/agile/july-an-introduction-to-functional-programming-with-f/#comments</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Fri, 11 Jul 2014 14:54:06 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Languages]]></category>
 		<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=683</guid>
+		<guid isPermaLink="false">/?p=683</guid>
 
 					<description><![CDATA[Date: Thursday 31st July 2014Time: 19:00Venue: Staffordshire University – Stafford Campus (Octagon building, K102) F# is a functional-first programming language which helps you to tackle complex computing problems with simple, maintainable and robust code. In this session, Ian Russell will get you started on the road to thinking and writing code functionally. If you’re interested, please sign up on meetup.com]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/july-an-introduction-to-functional-programming-with-f/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">683</post-id>	</item>
 		<item>
 		<title>November 2013 &#8211; Brooklyn Beta and Testing with C</title>
-		<link>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/</link>
-					<comments>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/#comments</comments>
+		<link>/agile/november-2013-brooklyn-beta-testing-c/</link>
+					<comments>/agile/november-2013-brooklyn-beta-testing-c/#comments</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Sun, 17 Nov 2013 17:01:04 +0000</pubDate>
@@ -77,19 +77,19 @@
 		<category><![CDATA[Kata]]></category>
 		<category><![CDATA[Meeting]]></category>
 		<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=588</guid>
+		<guid isPermaLink="false">/?p=588</guid>
 
 					<description><![CDATA[Date: Thursday 28th November 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (K102 &#8211; the Octagon building) Brooklyn Beta is a friendly web conference aimed at the “work hard and be nice to people” crowd. Trevor Adams, a long time member of Agile Staffordshire, attended the event and will be presenting a short talk [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/november-2013-brooklyn-beta-testing-c/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">588</post-id>	</item>
 		<item>
 		<title>September 2013 &#8211; Retrospective</title>
-		<link>/agilestaffordshire/agile/september-2013-retrospective/</link>
-					<comments>/agilestaffordshire/agile/september-2013-retrospective/#respond</comments>
+		<link>/agile/september-2013-retrospective/</link>
+					<comments>/agile/september-2013-retrospective/#respond</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Thu, 10 Oct 2013 12:33:10 +0000</pubDate>
@@ -97,55 +97,55 @@
 		<category><![CDATA[Meeting]]></category>
 		<category><![CDATA[Retrospectives]]></category>
 		<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=531</guid>
+		<guid isPermaLink="false">/?p=531</guid>
 
 					<description><![CDATA[Following some discussion on the Google Groups, and offline, we decided to do an ad-hoc group retrospective during Septembers meet up. We didn&#8217;t follow the normal retro questions &#8211; what&#8217;s gone well, what can be improved etc. Rather, we brainstormed future session ideas, tabled the possibility of changing venues. We&#8217;ve been challenged on how to [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/september-2013-retrospective/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/september-2013-retrospective/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">531</post-id>	</item>
 		<item>
 		<title>April 2013 – Ruby on Rails!</title>
-		<link>/agilestaffordshire/software-craftsmanship/april-2013-ruby-on-rails/</link>
-					<comments>/agilestaffordshire/software-craftsmanship/april-2013-ruby-on-rails/#comments</comments>
+		<link>/software-craftsmanship/april-2013-ruby-on-rails/</link>
+					<comments>/software-craftsmanship/april-2013-ruby-on-rails/#comments</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Sun, 21 Apr 2013 19:20:33 +0000</pubDate>
 				<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=427</guid>
+		<guid isPermaLink="false">/?p=427</guid>
 
 					<description><![CDATA[Date: Thursday 25th April 2013 Time: 7:00pm start (Please note time change) Venue: Staffordshire University &#8211; Stafford Campus (K102 &#8211; the Octagon building) Ruby on Rails Ruby on Rails is a mature and well used web application framework. It&#8217;s ubiquity in startup culture has made it popular through its tool support and quick development support. However, [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/software-craftsmanship/april-2013-ruby-on-rails/feed/</wfw:commentRss>
+					<wfw:commentRss>/software-craftsmanship/april-2013-ruby-on-rails/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">427</post-id>	</item>
 		<item>
 		<title>January 2013 – Refactoring legacy code</title>
-		<link>/agilestaffordshire/kata/january-2013-refactoring-legacy-code/</link>
-					<comments>/agilestaffordshire/kata/january-2013-refactoring-legacy-code/#respond</comments>
+		<link>/kata/january-2013-refactoring-legacy-code/</link>
+					<comments>/kata/january-2013-refactoring-legacy-code/#respond</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Sun, 13 Jan 2013 13:11:16 +0000</pubDate>
 				<category><![CDATA[Kata]]></category>
 		<category><![CDATA[Refactoring]]></category>
 		<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=358</guid>
+		<guid isPermaLink="false">/?p=358</guid>
 
 					<description><![CDATA[Date: Thursday 31st January 2013 Time: 7:30pm start Venue: The Stafford Ale House Location: Google Maps Why Refactoring? Well, a Happy New Year to one and all! Over the last few sessions, we&#8217;ve discussed The Alien Invasion project muted for 2013 &#8211; this project aims to change the implementation of the original Alien Invasion Challenge to support language [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/kata/january-2013-refactoring-legacy-code/feed/</wfw:commentRss>
+					<wfw:commentRss>/kata/january-2013-refactoring-legacy-code/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">358</post-id>	</item>
 		<item>
 		<title>November 2012 &#8211; Kanban Introduction</title>
-		<link>/agilestaffordshire/agile/november-2012-kanban-introduction/</link>
-					<comments>/agilestaffordshire/agile/november-2012-kanban-introduction/#comments</comments>
+		<link>/agile/november-2012-kanban-introduction/</link>
+					<comments>/agile/november-2012-kanban-introduction/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Sun, 11 Nov 2012 20:32:50 +0000</pubDate>
@@ -157,15 +157,15 @@
 
 					<description><![CDATA[Date: Thursday 29th November 2012 Time: 7:30pm start Venue: The Stafford Ale House Location: Google Maps Introduction To Kanban At last months meeting, due to technical problems, we didn&#8217;t get round to the Minisculus Challenge. However we did discuss the idea of extending the Alien Invasion project. The catalyst of this project is that back [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/november-2012-kanban-introduction/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/november-2012-kanban-introduction/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">321</post-id>	</item>
 		<item>
 		<title>July 2012 &#8211; Refactoring Session</title>
-		<link>/agilestaffordshire/agile/july-2012-refactoring-session/</link>
-					<comments>/agilestaffordshire/agile/july-2012-refactoring-session/#respond</comments>
+		<link>/agile/july-2012-refactoring-session/</link>
+					<comments>/agile/july-2012-refactoring-session/#respond</comments>
 		
 		<dc:creator><![CDATA[Robert Stothard]]></dc:creator>
 		<pubDate>Sun, 22 Jul 2012 21:18:34 +0000</pubDate>
@@ -176,15 +176,15 @@
 
 					<description><![CDATA[Date: Thursday 26th July 2012 Time: 7:30pm start Venue: The Stafford Ale House Location: Google Maps Refactoring Session During July’s meeting of Agile Staffs the plan is to have a refactoring session.  The purpose of the session is to get everyone to take part in an exercise of refactoring some simple code as a means [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/july-2012-refactoring-session/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/july-2012-refactoring-session/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">262</post-id>	</item>
 		<item>
 		<title>January 2012 Meeting &#8211; Space Invaders vs Continuous Testing</title>
-		<link>/agilestaffordshire/agile/january-2012-meeting-space-invaders-vs-continuous-testing/</link>
-					<comments>/agilestaffordshire/agile/january-2012-meeting-space-invaders-vs-continuous-testing/#comments</comments>
+		<link>/agile/january-2012-meeting-space-invaders-vs-continuous-testing/</link>
+					<comments>/agile/january-2012-meeting-space-invaders-vs-continuous-testing/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Sun, 15 Jan 2012 19:59:38 +0000</pubDate>
@@ -195,15 +195,15 @@
 
 					<description><![CDATA[Details  Date: Tuesday 24th January 2012 Time: 7:15pm start to 9:15pm (doors open at 6:30pm). Location: http://www.pieandale.com/ Theme: Practical Session Space Invaders vs Continuous Testing Paul Williams will be running this session, that he first took part in at the Software Craftsmanship Conference in 2011. Paul has since gone on to run this session at his [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/january-2012-meeting-space-invaders-vs-continuous-testing/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/january-2012-meeting-space-invaders-vs-continuous-testing/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">98</post-id>	</item>
 		<item>
 		<title>July Meeting: Back to TDD with a Lean Code Challenge</title>
-		<link>/agilestaffordshire/meeting-2/july-meeting-back-to-tdd-with-a-lean-code-challenge/</link>
-					<comments>/agilestaffordshire/meeting-2/july-meeting-back-to-tdd-with-a-lean-code-challenge/#comments</comments>
+		<link>/meeting-2/july-meeting-back-to-tdd-with-a-lean-code-challenge/</link>
+					<comments>/meeting-2/july-meeting-back-to-tdd-with-a-lean-code-challenge/#comments</comments>
 		
 		<dc:creator><![CDATA[paulshannon]]></dc:creator>
 		<pubDate>Sun, 24 Jul 2011 12:31:15 +0000</pubDate>
@@ -213,7 +213,7 @@
 
 					<description><![CDATA[Details&#160; Date: Monday 25th July Time: 7:15pm start to a 9:15pm (doors open at 6:30pm and close late). Location: http://www.pieandale.com/ Theme: Back to TDD (with a Lean Code Challenge) Back To TDD Following the session on the Software Craftsmanship 2011 conference, and then a great session with two speakers, it makes sense to get back to some [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/meeting-2/july-meeting-back-to-tdd-with-a-lean-code-challenge/feed/</wfw:commentRss>
+					<wfw:commentRss>/meeting-2/july-meeting-back-to-tdd-with-a-lean-code-challenge/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

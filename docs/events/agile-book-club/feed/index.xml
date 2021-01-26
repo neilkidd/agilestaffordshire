@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Agile Book Club	</title>
-	<atom:link href="/agilestaffordshire/events/agile-book-club/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/events/agile-book-club/</link>
+	<atom:link href="/events/agile-book-club/feed/" rel="self" type="application/rss+xml" />
+	<link>/events/agile-book-club/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Tue, 20 Aug 2019 10:22:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

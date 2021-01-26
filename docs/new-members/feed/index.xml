@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: New Members	</title>
-	<atom:link href="/agilestaffordshire/new-members/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/new-members/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Sat, 27 Sep 2014 10:49:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: Cynthia		</title>
-		<link>/agilestaffordshire/new-members/#comment-3321</link>
+		<link>/new-members/#comment-3321</link>
 
 		<dc:creator><![CDATA[Cynthia]]></dc:creator>
 		<pubDate>Wed, 21 Aug 2013 11:48:11 +0000</pubDate>
@@ -48,7 +48,7 @@ I am researching the role of stand-up meetings in agile software development for
 		<item>
 		<title>
 		By: June Meeting: Flow and F1 In Paediatric Intensive Care &#187; Agile Staffordshire		</title>
-		<link>/agilestaffordshire/new-members/#comment-3</link>
+		<link>/new-members/#comment-3</link>
 
 		<dc:creator><![CDATA[June Meeting: Flow and F1 In Paediatric Intensive Care &#187; Agile Staffordshire]]></dc:creator>
 		<pubDate>Mon, 13 Jun 2011 21:27:36 +0000</pubDate>

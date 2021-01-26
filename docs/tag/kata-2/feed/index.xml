@@ -12,8 +12,8 @@
 
 <channel>
 	<title>kata &#8211; Agile Staffordshire</title>
-	<atom:link href="/agilestaffordshire/tag/kata-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/tag/kata-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 18 Aug 2014 09:29:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>August &#8211; The Guilded Rose Kata</title>
-		<link>/agilestaffordshire/agile/august-the-guilded-rose-kata/</link>
-					<comments>/agilestaffordshire/agile/august-the-guilded-rose-kata/#comments</comments>
+		<link>/agile/august-the-guilded-rose-kata/</link>
+					<comments>/agile/august-the-guilded-rose-kata/#comments</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Mon, 18 Aug 2014 09:23:46 +0000</pubDate>
@@ -33,11 +33,11 @@
 		<category><![CDATA[Kata]]></category>
 		<category><![CDATA[guildedrose]]></category>
 		<category><![CDATA[kata]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=689</guid>
+		<guid isPermaLink="false">/?p=689</guid>
 
 					<description><![CDATA[Date: Thursday 28th August 2014Time: 19:00Venue: Staffordshire University – Stafford Campus (Octagon building, K102) The Guilded Rose Kata fictionalizes the experience of working with someone else&#8217;s code. You&#8217;ll probably groan when you first see the code provided to you. The amount of code isn&#8217;t overwhelming, its the prefect balance to evoke the feeling, &#8220;I can&#8217;t wait to re-write this cruft.&#8221; It&#8217;s suggested [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/august-the-guilded-rose-kata/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/august-the-guilded-rose-kata/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

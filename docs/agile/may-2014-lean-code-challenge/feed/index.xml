@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: May 2014 – Lean Code Challenge	</title>
-	<atom:link href="/agilestaffordshire/agile/may-2014-lean-code-challenge/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/agile/may-2014-lean-code-challenge/</link>
+	<atom:link href="/agile/may-2014-lean-code-challenge/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/may-2014-lean-code-challenge/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Thu, 12 Jun 2014 01:33:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,25 +23,25 @@
 	<item>
 		<title>
 		By: Trevor Adams		</title>
-		<link>/agilestaffordshire/agile/may-2014-lean-code-challenge/#comment-15262</link>
+		<link>/agile/may-2014-lean-code-challenge/#comment-15262</link>
 
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Thu, 12 Jun 2014 01:33:23 +0000</pubDate>
-		<guid isPermaLink="false">/agilestaffordshire/?p=652#comment-15262</guid>
+		<guid isPermaLink="false">/?p=652#comment-15262</guid>
 
-					<description><![CDATA[Great session, I followed up with a &lt;a href=&quot;/agilestaffordshire/retrospectives/lean-code-retrospective/&quot; rel=&quot;nofollow&quot;&gt;retrospective&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Great session, I followed up with a <a href="/agilestaffordshire/retrospectives/lean-code-retrospective/" rel="nofollow">retrospective</a>.</p>
+					<description><![CDATA[Great session, I followed up with a &lt;a href=&quot;/retrospectives/lean-code-retrospective/&quot; rel=&quot;nofollow&quot;&gt;retrospective&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Great session, I followed up with a <a href="/retrospectives/lean-code-retrospective/" rel="nofollow">retrospective</a>.</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
 		By: The Lean Code Challenge &#8211; Agile Staffordshire &#124; Trevweb		</title>
-		<link>/agilestaffordshire/agile/may-2014-lean-code-challenge/#comment-11981</link>
+		<link>/agile/may-2014-lean-code-challenge/#comment-11981</link>
 
 		<dc:creator><![CDATA[The Lean Code Challenge &#8211; Agile Staffordshire &#124; Trevweb]]></dc:creator>
 		<pubDate>Wed, 28 May 2014 14:51:13 +0000</pubDate>
-		<guid isPermaLink="false">/agilestaffordshire/?p=652#comment-11981</guid>
+		<guid isPermaLink="false">/?p=652#comment-11981</guid>
 
 					<description><![CDATA[[&#8230;] and has fun with lots of software development topics and techniques. This month, there is a Lean Code Challenge, and it will be a great opportunity for people to come a long and have a [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] and has fun with lots of software development topics and techniques. This month, there is a Lean Code Challenge, and it will be a great opportunity for people to come a long and have a [&#8230;]</p>
@@ -51,11 +51,11 @@
 		<item>
 		<title>
 		By: Agile Staffordshire May 2014 &#124; Trevweb		</title>
-		<link>/agilestaffordshire/agile/may-2014-lean-code-challenge/#comment-11977</link>
+		<link>/agile/may-2014-lean-code-challenge/#comment-11977</link>
 
 		<dc:creator><![CDATA[Agile Staffordshire May 2014 &#124; Trevweb]]></dc:creator>
 		<pubDate>Wed, 28 May 2014 14:17:21 +0000</pubDate>
-		<guid isPermaLink="false">/agilestaffordshire/?p=652#comment-11977</guid>
+		<guid isPermaLink="false">/?p=652#comment-11977</guid>
 
 					<description><![CDATA[[&#8230;] at Staffordshire University for the Lean Code Challenge. As usual, details are available on the Agile Staffordshire Blog and you can register your attendance on [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] at Staffordshire University for the Lean Code Challenge. As usual, details are available on the Agile Staffordshire Blog and you can register your attendance on [&#8230;]</p>

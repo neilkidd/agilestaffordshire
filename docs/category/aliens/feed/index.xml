@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Aliens &#8211; Agile Staffordshire</title>
-	<atom:link href="/agilestaffordshire/category/aliens/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/category/aliens/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 23 Sep 2013 19:57:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,83 +24,83 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>September 2013 &#8211; First Contact</title>
-		<link>/agilestaffordshire/agile/september-2013-first-contact/</link>
-					<comments>/agilestaffordshire/agile/september-2013-first-contact/#comments</comments>
+		<link>/agile/september-2013-first-contact/</link>
+					<comments>/agile/september-2013-first-contact/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Mon, 23 Sep 2013 19:57:44 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Aliens]]></category>
 		<category><![CDATA[REST]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=519</guid>
+		<guid isPermaLink="false">/?p=519</guid>
 
 					<description><![CDATA[Date: Thursday 26th September 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (K106 &#8211; the Octagon building) &#160; Last month we continued our discussions and began creating the RESTful implementation of our alien invasion game with the creation of the game controller. Continuing with getting the minimal feature set completed, this month we look [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/september-2013-first-contact/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/september-2013-first-contact/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">519</post-id>	</item>
 		<item>
 		<title>August 2013 &#8211; Some RESTful coding</title>
-		<link>/agilestaffordshire/agile/august-2013-some-restful-coding/</link>
-					<comments>/agilestaffordshire/agile/august-2013-some-restful-coding/#comments</comments>
+		<link>/agile/august-2013-some-restful-coding/</link>
+					<comments>/agile/august-2013-some-restful-coding/#comments</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Tue, 27 Aug 2013 19:44:54 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Aliens]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=511</guid>
+		<guid isPermaLink="false">/?p=511</guid>
 
 					<description><![CDATA[Date: Thursday 29th August 2013 Time: 7:00pm Venue: Staffordshire University – Stafford Campus (K106 – the Octagon building) Following my brief refresher on REST and HTTP verbs, the group started to collaborate on a API designs that would allow Alien Invasion to present a language agnostic interface. Whilst much of this API would be fairly straightforward, the group thought that [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/august-2013-some-restful-coding/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/august-2013-some-restful-coding/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">511</post-id>	</item>
 		<item>
 		<title>July 2013 &#8211; Planning</title>
-		<link>/agilestaffordshire/agile/july-2013-planning/</link>
-					<comments>/agilestaffordshire/agile/july-2013-planning/#respond</comments>
+		<link>/agile/july-2013-planning/</link>
+					<comments>/agile/july-2013-planning/#respond</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2013 22:41:48 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Aliens]]></category>
 		<category><![CDATA[Meeting]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=481</guid>
+		<guid isPermaLink="false">/?p=481</guid>
 
 					<description><![CDATA[Date: Thursday 25th July 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (K106 &#8211; the Octagon building) &#160; &#160; &#160; After gaining familiarity with the game in last months game play we will make a high level plan (read: just enough planning) of the approach we will take to make the game server side. [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/july-2013-planning/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/july-2013-planning/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">481</post-id>	</item>
 		<item>
 		<title>June 2013 &#8211; Alien Invasion Replay</title>
-		<link>/agilestaffordshire/agile/june-2013-alien-invasion-replay/</link>
-					<comments>/agilestaffordshire/agile/june-2013-alien-invasion-replay/#comments</comments>
+		<link>/agile/june-2013-alien-invasion-replay/</link>
+					<comments>/agile/june-2013-alien-invasion-replay/#comments</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Sun, 23 Jun 2013 13:47:36 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Aliens]]></category>
 		<category><![CDATA[Refactoring]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=476</guid>
+		<guid isPermaLink="false">/?p=476</guid>
 
 					<description><![CDATA[Date: Thursday 27th June 2013 Time: 7:00pm start (Please note time change) Venue: Staffordshire University &#8211; Stafford Campus (K102 &#8211; the Octagon building) Following last months session kicking off the Alien Invasion refactoring process, we discovered that a deeper and fresher understanding of the gameplay and strategies to defend earth would hopefully lead to a quicker [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/june-2013-alien-invasion-replay/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/june-2013-alien-invasion-replay/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">476</post-id>	</item>
 		<item>
 		<title>May 2013 &#8211; Back To The Aliens (Take Two)</title>
-		<link>/agilestaffordshire/agile/may-2013-back-to-the-aliens-take-two/</link>
-					<comments>/agilestaffordshire/agile/may-2013-back-to-the-aliens-take-two/#comments</comments>
+		<link>/agile/may-2013-back-to-the-aliens-take-two/</link>
+					<comments>/agile/may-2013-back-to-the-aliens-take-two/#comments</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Mon, 13 May 2013 12:48:24 +0000</pubDate>
@@ -108,30 +108,30 @@
 		<category><![CDATA[Aliens]]></category>
 		<category><![CDATA[Kanban]]></category>
 		<category><![CDATA[Meeting]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=446</guid>
+		<guid isPermaLink="false">/?p=446</guid>
 
 					<description><![CDATA[Date: Thursday 23rd May 2013 Time: 7:00pm start (Please note time change) Venue: Staffordshire University &#8211; Stafford Campus (K102 &#8211; the Octagon building) &#160; &#160; This month we will (finally) kick-off the Alien Invasion project. Code Repository The repository is a GIT repository and can be found at https://github.com/agilestaffordshire/Alien-Invasion-Coding-Challenge . To work on the code, begin by forking [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/may-2013-back-to-the-aliens-take-two/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/may-2013-back-to-the-aliens-take-two/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">446</post-id>	</item>
 		<item>
 		<title>February 2013 – Aliens Kickoff!</title>
-		<link>/agilestaffordshire/agile/february-2013-aliens-kickoff/</link>
-					<comments>/agilestaffordshire/agile/february-2013-aliens-kickoff/#respond</comments>
+		<link>/agile/february-2013-aliens-kickoff/</link>
+					<comments>/agile/february-2013-aliens-kickoff/#respond</comments>
 		
 		<dc:creator><![CDATA[Neil Kidd]]></dc:creator>
 		<pubDate>Tue, 19 Feb 2013 22:59:29 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Aliens]]></category>
 		<category><![CDATA[Meeting]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=395</guid>
+		<guid isPermaLink="false">/?p=395</guid>
 
 					<description><![CDATA[Date: Thursday 28th February 2013 Time: 7:30pm start Venue: The Stafford Ale House Location: Google Maps Alien Invasion Kickoff This month we will get started on the Alien Invasion project. The main repository can be found at https://github.com/agilestaffordshire/Alien-Invasion-Coding-Challenge . To work on the code, begin by forking the repo in your own account and work [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/february-2013-aliens-kickoff/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/february-2013-aliens-kickoff/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

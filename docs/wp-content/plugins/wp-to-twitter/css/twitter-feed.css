@@ -58,15 +58,15 @@
 }
 
 .wpt-intents .wpt-reply span {
-    background: url(/agilestaffordshire/wp-content/plugins/wp-to-twitter/images/spritev2.png) 0px;
+    background: url(/wp-content/plugins/wp-to-twitter/images/spritev2.png) 0px;
 }
 
 .wpt-intents .wpt-retweet span {
-    background: url(/agilestaffordshire/wp-content/plugins/wp-to-twitter/images/spritev2.png) -80px;
+    background: url(/wp-content/plugins/wp-to-twitter/images/spritev2.png) -80px;
 }
 
 .wpt-intents .wpt-favorite span {
-    background: url(/agilestaffordshire/wp-content/plugins/wp-to-twitter/images/spritev2.png) -32px;
+    background: url(/wp-content/plugins/wp-to-twitter/images/spritev2.png) -32px;
 }
 
 .wpt-intents .wpt-reply:hover span, .wpt-intents .wpt-reply:focus span {

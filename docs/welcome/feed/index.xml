@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Welcome	</title>
-	<atom:link href="/agilestaffordshire/welcome/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/welcome/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 10 Mar 2014 13:40:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: Katie Taylor		</title>
-		<link>/agilestaffordshire/welcome/#comment-4209</link>
+		<link>/welcome/#comment-4209</link>
 
 		<dc:creator><![CDATA[Katie Taylor]]></dc:creator>
 		<pubDate>Mon, 10 Mar 2014 13:40:45 +0000</pubDate>
@@ -40,7 +40,7 @@ Call for Participation open until 28th April.]]></description>
 		<item>
 		<title>
 		By: Katie Taylor		</title>
-		<link>/agilestaffordshire/welcome/#comment-2215</link>
+		<link>/welcome/#comment-2215</link>
 
 		<dc:creator><![CDATA[Katie Taylor]]></dc:creator>
 		<pubDate>Sun, 24 Feb 2013 21:57:23 +0000</pubDate>

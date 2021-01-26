@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: August Meeting: Code Smell Clinic	</title>
-	<atom:link href="/agilestaffordshire/agile/august-meeting-code-smell-clinic/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/agile/august-meeting-code-smell-clinic/</link>
+	<atom:link href="/agile/august-meeting-code-smell-clinic/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/august-meeting-code-smell-clinic/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 19 Mar 2012 17:23:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: Blogs From The Geeks &#187; Blog Archive &#187; 7digital Community Events - Intermittent insightful nuggets		</title>
-		<link>/agilestaffordshire/agile/august-meeting-code-smell-clinic/#comment-7</link>
+		<link>/agile/august-meeting-code-smell-clinic/#comment-7</link>
 
 		<dc:creator><![CDATA[Blogs From The Geeks &#187; Blog Archive &#187; 7digital Community Events - Intermittent insightful nuggets]]></dc:creator>
 		<pubDate>Mon, 19 Mar 2012 17:23:34 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<item>
 		<title>
 		By: Paul Williams		</title>
-		<link>/agilestaffordshire/agile/august-meeting-code-smell-clinic/#comment-6</link>
+		<link>/agile/august-meeting-code-smell-clinic/#comment-6</link>
 
 		<dc:creator><![CDATA[Paul Williams]]></dc:creator>
 		<pubDate>Sun, 21 Aug 2011 17:44:53 +0000</pubDate>

@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: November 2012 &#8211; Kanban Introduction	</title>
-	<atom:link href="/agilestaffordshire/agile/november-2012-kanban-introduction/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/agile/november-2012-kanban-introduction/</link>
+	<atom:link href="/agile/november-2012-kanban-introduction/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/november-2012-kanban-introduction/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 03 Dec 2012 00:22:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: December 2012 &#8211; XPDay Lightning Talks &#187; Agile Staffordshire		</title>
-		<link>/agilestaffordshire/agile/november-2012-kanban-introduction/#comment-232</link>
+		<link>/agile/november-2012-kanban-introduction/#comment-232</link>
 
 		<dc:creator><![CDATA[December 2012 &#8211; XPDay Lightning Talks &#187; Agile Staffordshire]]></dc:creator>
 		<pubDate>Mon, 03 Dec 2012 00:22:50 +0000</pubDate>

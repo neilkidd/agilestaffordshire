@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: July &#8211; An Introduction to Functional Programming with F#	</title>
-	<atom:link href="/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/</link>
+	<atom:link href="/agile/july-an-introduction-to-functional-programming-with-f/feed/" rel="self" type="application/rss+xml" />
+	<link>/agile/july-an-introduction-to-functional-programming-with-f/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 18 Aug 2014 07:32:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: paulswilliams		</title>
-		<link>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/#comment-37384</link>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-37384</link>
 
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Mon, 18 Aug 2014 07:32:25 +0000</pubDate>
-		<guid isPermaLink="false">/agilestaffordshire/?p=683#comment-37384</guid>
+		<guid isPermaLink="false">/?p=683#comment-37384</guid>
 
 					<description><![CDATA[And the slides are at http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp]]></description>
 			<content:encoded><![CDATA[<p>And the slides are at <a href="http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp" rel="nofollow ugc">http://www.slideshare.net/agilestaffs/introduction-tofunctionalprogramminginfsharp</a></p>
@@ -37,11 +37,11 @@
 		<item>
 		<title>
 		By: Agile Staffordshire July 2014 &#124; Trevweb		</title>
-		<link>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/#comment-28400</link>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-28400</link>
 
 		<dc:creator><![CDATA[Agile Staffordshire July 2014 &#124; Trevweb]]></dc:creator>
 		<pubDate>Mon, 28 Jul 2014 00:48:41 +0000</pubDate>
-		<guid isPermaLink="false">/agilestaffordshire/?p=683#comment-28400</guid>
+		<guid isPermaLink="false">/?p=683#comment-28400</guid>
 
 					<description><![CDATA[[&#8230;] month&#8217;s Agile Staffordshire session is going to a be a real treat. Ian Russell is scheduled to deliver a session on F#, a [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] month&#8217;s Agile Staffordshire session is going to a be a real treat. Ian Russell is scheduled to deliver a session on F#, a [&#8230;]</p>
@@ -51,11 +51,11 @@
 		<item>
 		<title>
 		By: Trevor Adams		</title>
-		<link>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/#comment-26491</link>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-26491</link>
 
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Tue, 22 Jul 2014 01:57:29 +0000</pubDate>
-		<guid isPermaLink="false">/agilestaffordshire/?p=683#comment-26491</guid>
+		<guid isPermaLink="false">/?p=683#comment-26491</guid>
 
 					<description><![CDATA[I have checked with the University staff and F# is installed in K102 labs.]]></description>
 			<content:encoded><![CDATA[<p>I have checked with the University staff and F# is installed in K102 labs.</p>
@@ -65,11 +65,11 @@
 		<item>
 		<title>
 		By: Trevor Adams		</title>
-		<link>/agilestaffordshire/agile/july-an-introduction-to-functional-programming-with-f/#comment-24216</link>
+		<link>/agile/july-an-introduction-to-functional-programming-with-f/#comment-24216</link>
 
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Mon, 14 Jul 2014 23:03:28 +0000</pubDate>
-		<guid isPermaLink="false">/agilestaffordshire/?p=683#comment-24216</guid>
+		<guid isPermaLink="false">/?p=683#comment-24216</guid>
 
 					<description><![CDATA[Can anyone confirm if the lab machines have F# installed? It will save me the time in setting up a VM. Looking forward to seeing you all!]]></description>
 			<content:encoded><![CDATA[<p>Can anyone confirm if the lab machines have F# installed? It will save me the time in setting up a VM. Looking forward to seeing you all!</p>

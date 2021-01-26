@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Kata &#8211; Agile Staffordshire</title>
-	<atom:link href="/agilestaffordshire/category/kata/feed/" rel="self" type="application/rss+xml" />
-	<link>/agilestaffordshire/</link>
+	<atom:link href="/category/kata/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>A user group for Agile, XP, Software Craftsmanship and Software Development, based in Stafford</description>
 	<lastBuildDate>Mon, 18 Aug 2014 09:29:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">65552214</site>	<item>
 		<title>August &#8211; The Guilded Rose Kata</title>
-		<link>/agilestaffordshire/agile/august-the-guilded-rose-kata/</link>
-					<comments>/agilestaffordshire/agile/august-the-guilded-rose-kata/#comments</comments>
+		<link>/agile/august-the-guilded-rose-kata/</link>
+					<comments>/agile/august-the-guilded-rose-kata/#comments</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Mon, 18 Aug 2014 09:23:46 +0000</pubDate>
@@ -33,19 +33,19 @@
 		<category><![CDATA[Kata]]></category>
 		<category><![CDATA[guildedrose]]></category>
 		<category><![CDATA[kata]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=689</guid>
+		<guid isPermaLink="false">/?p=689</guid>
 
 					<description><![CDATA[Date: Thursday 28th August 2014Time: 19:00Venue: Staffordshire University – Stafford Campus (Octagon building, K102) The Guilded Rose Kata fictionalizes the experience of working with someone else&#8217;s code. You&#8217;ll probably groan when you first see the code provided to you. The amount of code isn&#8217;t overwhelming, its the prefect balance to evoke the feeling, &#8220;I can&#8217;t wait to re-write this cruft.&#8221; It&#8217;s suggested [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/august-the-guilded-rose-kata/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/august-the-guilded-rose-kata/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">689</post-id>	</item>
 		<item>
 		<title>June 2014 &#8211; Is TDD Dead?</title>
-		<link>/agilestaffordshire/agile/june-2014-is-tdd-dead/</link>
-					<comments>/agilestaffordshire/agile/june-2014-is-tdd-dead/#comments</comments>
+		<link>/agile/june-2014-is-tdd-dead/</link>
+					<comments>/agile/june-2014-is-tdd-dead/#comments</comments>
 		
 		<dc:creator><![CDATA[Jon Willis]]></dc:creator>
 		<pubDate>Thu, 19 Jun 2014 21:07:19 +0000</pubDate>
@@ -56,56 +56,56 @@
 		<category><![CDATA[Refactoring]]></category>
 		<category><![CDATA[Retrospectives]]></category>
 		<category><![CDATA[Testing]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=671</guid>
+		<guid isPermaLink="false">/?p=671</guid>
 
 					<description><![CDATA[Date: Thursday 26th June 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) Fear not, TDD is not dead, although it&#8217;s certainly been talked to death this month. This catchy title has been doing the rounds on the web recently since the Kent Beck + Martin Fowler + David Heinemeier Hansson talks. This month we are going to [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/june-2014-is-tdd-dead/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/june-2014-is-tdd-dead/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">671</post-id>	</item>
 		<item>
 		<title>Anagram Kata (Strikes Back)</title>
-		<link>/agilestaffordshire/kata/anagram-kata-strikes-back/</link>
-					<comments>/agilestaffordshire/kata/anagram-kata-strikes-back/#comments</comments>
+		<link>/kata/anagram-kata-strikes-back/</link>
+					<comments>/kata/anagram-kata-strikes-back/#comments</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Thu, 13 Mar 2014 22:59:07 +0000</pubDate>
 				<category><![CDATA[Kata]]></category>
 		<category><![CDATA[Programming]]></category>
 		<category><![CDATA[Refactoring]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=631</guid>
+		<guid isPermaLink="false">/?p=631</guid>
 
 					<description><![CDATA[Date: Thursday 27th March 2014 Time: 19:00 Venue: Staffordshire University – Stafford Campus (Octagon building, K102) March is all about code kata. We shall be visiting a kata that has been run before &#8211; Anagram! If you do not know what code kata is, start with Dave&#8217;s Blog and then read his anagram kata post. We like change, so consider [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/kata/anagram-kata-strikes-back/feed/</wfw:commentRss>
+					<wfw:commentRss>/kata/anagram-kata-strikes-back/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">631</post-id>	</item>
 		<item>
 		<title>January 2014 &#8211; Kata with Constraints</title>
-		<link>/agilestaffordshire/agile/january-2014-kata-with-constraints/</link>
-					<comments>/agilestaffordshire/agile/january-2014-kata-with-constraints/#comments</comments>
+		<link>/agile/january-2014-kata-with-constraints/</link>
+					<comments>/agile/january-2014-kata-with-constraints/#comments</comments>
 		
 		<dc:creator><![CDATA[Jon Willis]]></dc:creator>
 		<pubDate>Thu, 09 Jan 2014 13:42:48 +0000</pubDate>
 				<category><![CDATA[Agile]]></category>
 		<category><![CDATA[Kata]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=612</guid>
+		<guid isPermaLink="false">/?p=612</guid>
 
 					<description><![CDATA[Date: Thursday 23rd January 2014 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (Octagon building, K102) With the new year now behind us, to kick start 2014 Agile Staffordshire will be going back to basics with a twist. A key technique in agile development is Test Driven Development (TDD), a difficult skill to master yet often practiced through simple Kata [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/january-2014-kata-with-constraints/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/january-2014-kata-with-constraints/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">612</post-id>	</item>
 		<item>
 		<title>November 2013 &#8211; Brooklyn Beta and Testing with C</title>
-		<link>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/</link>
-					<comments>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/#comments</comments>
+		<link>/agile/november-2013-brooklyn-beta-testing-c/</link>
+					<comments>/agile/november-2013-brooklyn-beta-testing-c/#comments</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Sun, 17 Nov 2013 17:01:04 +0000</pubDate>
@@ -114,38 +114,38 @@
 		<category><![CDATA[Kata]]></category>
 		<category><![CDATA[Meeting]]></category>
 		<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=588</guid>
+		<guid isPermaLink="false">/?p=588</guid>
 
 					<description><![CDATA[Date: Thursday 28th November 2013 Time: 7:00pm Venue: Staffordshire University &#8211; Stafford Campus (K102 &#8211; the Octagon building) Brooklyn Beta is a friendly web conference aimed at the “work hard and be nice to people” crowd. Trevor Adams, a long time member of Agile Staffordshire, attended the event and will be presenting a short talk [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/november-2013-brooklyn-beta-testing-c/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/november-2013-brooklyn-beta-testing-c/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">588</post-id>	</item>
 		<item>
 		<title>January 2013 – Refactoring legacy code</title>
-		<link>/agilestaffordshire/kata/january-2013-refactoring-legacy-code/</link>
-					<comments>/agilestaffordshire/kata/january-2013-refactoring-legacy-code/#respond</comments>
+		<link>/kata/january-2013-refactoring-legacy-code/</link>
+					<comments>/kata/january-2013-refactoring-legacy-code/#respond</comments>
 		
 		<dc:creator><![CDATA[paulswilliams]]></dc:creator>
 		<pubDate>Sun, 13 Jan 2013 13:11:16 +0000</pubDate>
 				<category><![CDATA[Kata]]></category>
 		<category><![CDATA[Refactoring]]></category>
 		<category><![CDATA[Software Craftsmanship]]></category>
-		<guid isPermaLink="false">/agilestaffordshire/?p=358</guid>
+		<guid isPermaLink="false">/?p=358</guid>
 
 					<description><![CDATA[Date: Thursday 31st January 2013 Time: 7:30pm start Venue: The Stafford Ale House Location: Google Maps Why Refactoring? Well, a Happy New Year to one and all! Over the last few sessions, we&#8217;ve discussed The Alien Invasion project muted for 2013 &#8211; this project aims to change the implementation of the original Alien Invasion Challenge to support language [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/kata/january-2013-refactoring-legacy-code/feed/</wfw:commentRss>
+					<wfw:commentRss>/kata/january-2013-refactoring-legacy-code/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">358</post-id>	</item>
 		<item>
 		<title>September 2012 &#8211; Anagram Follow Up</title>
-		<link>/agilestaffordshire/agile/september-2012/</link>
-					<comments>/agilestaffordshire/agile/september-2012/#comments</comments>
+		<link>/agile/september-2012/</link>
+					<comments>/agile/september-2012/#comments</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Wed, 19 Sep 2012 09:43:29 +0000</pubDate>
@@ -156,15 +156,15 @@
 
 					<description><![CDATA[Date: Wednesday 26 September 2012 Time: 19:30 start. Venue: The Stafford Ale House Location: Google Map It&#8217;s a follow up session! Bring your laptops and other programming apparatus. Last month we had a great session with the Anagram Kata. This month, we shall follow up with some interesting turns involving the same Kata. We shall [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/september-2012/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/september-2012/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">292</post-id>	</item>
 		<item>
 		<title>August 2012 &#8211; Kata: Anagrams</title>
-		<link>/agilestaffordshire/agile/august-2012-kata-anagrams/</link>
-					<comments>/agilestaffordshire/agile/august-2012-kata-anagrams/#comments</comments>
+		<link>/agile/august-2012-kata-anagrams/</link>
+					<comments>/agile/august-2012-kata-anagrams/#comments</comments>
 		
 		<dc:creator><![CDATA[Trevor Adams]]></dc:creator>
 		<pubDate>Thu, 30 Aug 2012 13:20:17 +0000</pubDate>
@@ -175,7 +175,7 @@
 
 					<description><![CDATA[Date: Thursday 30th August 2012 Time: 19:30 start. Venue: The Stafford Ale House Location: Google Maps Bring your laptops and your favourite coding tools! This week shall do some coding. I am going to use another kata from Dave Thomas&#8217; Blog; Anagrams! Taken Directly: The challenge is fairly simple: given a file containing one word per [&#8230;]]]></description>
 		
-					<wfw:commentRss>/agilestaffordshire/agile/august-2012-kata-anagrams/feed/</wfw:commentRss>
+					<wfw:commentRss>/agile/august-2012-kata-anagrams/feed/</wfw:commentRss>
 			<slash:comments>9</slash:comments>
 		
 		
